@@ -462,93 +462,99 @@ def load_gemini():
     return genai.Client(api_key=GEMINI_API_KEY)
 
 
-# ============== Preload Models (with splash screen) ==============
-_splash = st.empty()
-_splash.markdown(f"""
-<div id="splash-screen" style="
-    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
-    background: radial-gradient(ellipse at center, #0a1628 0%, #080C10 70%);
-    display: flex; flex-direction: column; align-items: center; justify-content: center;
-    z-index: 999999;
-">
-    <!-- Animated rings -->
-    <div style="position: relative; width: 160px; height: 160px; margin-bottom: 32px;">
-        <div style="
-            position: absolute; inset: 0;
-            border: 2px solid rgba(0, 212, 255, 0.15);
-            border-radius: 50%;
-            animation: pulse-ring 2s ease-out infinite;
-        "></div>
-        <div style="
-            position: absolute; inset: 20px;
-            border: 2px solid rgba(0, 212, 255, 0.25);
-            border-radius: 50%;
-            animation: pulse-ring 2s ease-out 0.4s infinite;
-        "></div>
-        <div style="
-            position: absolute; inset: 40px;
-            border: 2px solid rgba(0, 212, 255, 0.4);
-            border-radius: 50%;
-            animation: pulse-ring 2s ease-out 0.8s infinite;
-        "></div>
-        <!-- Center glow -->
-        <div style="
-            position: absolute; inset: 55px;
-            background: radial-gradient(circle, rgba(0, 212, 255, 0.4) 0%, transparent 70%);
-            border-radius: 50%;
-            animation: glow-pulse 1.5s ease-in-out infinite alternate;
-        "></div>
-        <!-- Cross lines -->
-        <div style="
-            position: absolute; top: 50%; left: 10%; right: 10%; height: 1px;
-            background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.5), transparent);
-            animation: glow-pulse 1.5s ease-in-out infinite alternate;
-        "></div>
-        <div style="
-            position: absolute; left: 50%; top: 10%; bottom: 10%; width: 1px;
-            background: linear-gradient(180deg, transparent, rgba(0, 212, 255, 0.5), transparent);
-            animation: glow-pulse 1.5s ease-in-out infinite alternate;
-        "></div>
-    </div>
-    <!-- Brand name -->
-    <div style="
-        font-family: 'Inter', sans-serif;
-        font-size: 2.2rem; font-weight: 700; letter-spacing: 8px;
-        background: linear-gradient(135deg, #00D4FF 0%, #00F0FF 50%, #7DF9FF 100%);
-        -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-        margin-bottom: 16px;
-    ">RESONANCE</div>
-    <!-- Loading text -->
-    <div style="
-        color: rgba(0, 212, 255, 0.5); font-size: 0.95rem; letter-spacing: 2px;
-        animation: loading-dots 1.5s ease-in-out infinite;
-    ">Initializing AI Models</div>
-</div>
+# ============== Preload Models (with splash screen on first visit only) ==============
+_show_splash = "splash_shown" not in st.session_state
 
-<style>
-@keyframes pulse-ring {{
-    0% {{ transform: scale(0.95); opacity: 1; }}
-    100% {{ transform: scale(1.15); opacity: 0; }}
-}}
-@keyframes glow-pulse {{
-    0% {{ opacity: 0.4; }}
-    100% {{ opacity: 1; }}
-}}
-@keyframes loading-dots {{
-    0%, 100% {{ opacity: 0.4; }}
-    50% {{ opacity: 1; }}
-}}
-</style>
-""", unsafe_allow_html=True)
+if _show_splash:
+    _splash = st.empty()
+    _splash.markdown(f"""
+    <div id="splash-screen" style="
+        position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+        background: radial-gradient(ellipse at center, #0a1628 0%, #080C10 70%);
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        z-index: 999999;
+    ">
+        <!-- Animated rings -->
+        <div style="position: relative; width: 160px; height: 160px; margin-bottom: 32px;">
+            <div style="
+                position: absolute; inset: 0;
+                border: 2px solid rgba(0, 212, 255, 0.15);
+                border-radius: 50%;
+                animation: pulse-ring 2s ease-out infinite;
+            "></div>
+            <div style="
+                position: absolute; inset: 20px;
+                border: 2px solid rgba(0, 212, 255, 0.25);
+                border-radius: 50%;
+                animation: pulse-ring 2s ease-out 0.4s infinite;
+            "></div>
+            <div style="
+                position: absolute; inset: 40px;
+                border: 2px solid rgba(0, 212, 255, 0.4);
+                border-radius: 50%;
+                animation: pulse-ring 2s ease-out 0.8s infinite;
+            "></div>
+            <!-- Center glow -->
+            <div style="
+                position: absolute; inset: 55px;
+                background: radial-gradient(circle, rgba(0, 212, 255, 0.4) 0%, transparent 70%);
+                border-radius: 50%;
+                animation: glow-pulse 1.5s ease-in-out infinite alternate;
+            "></div>
+            <!-- Cross lines -->
+            <div style="
+                position: absolute; top: 50%; left: 10%; right: 10%; height: 1px;
+                background: linear-gradient(90deg, transparent, rgba(0, 212, 255, 0.5), transparent);
+                animation: glow-pulse 1.5s ease-in-out infinite alternate;
+            "></div>
+            <div style="
+                position: absolute; left: 50%; top: 10%; bottom: 10%; width: 1px;
+                background: linear-gradient(180deg, transparent, rgba(0, 212, 255, 0.5), transparent);
+                animation: glow-pulse 1.5s ease-in-out infinite alternate;
+            "></div>
+        </div>
+        <!-- Brand name -->
+        <div style="
+            font-family: 'Inter', sans-serif;
+            font-size: 2.2rem; font-weight: 700; letter-spacing: 8px;
+            background: linear-gradient(135deg, #00D4FF 0%, #00F0FF 50%, #7DF9FF 100%);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+            margin-bottom: 16px;
+        ">RESONANCE</div>
+        <!-- Loading text -->
+        <div style="
+            color: rgba(0, 212, 255, 0.5); font-size: 0.95rem; letter-spacing: 2px;
+            animation: loading-dots 1.5s ease-in-out infinite;
+        ">Initializing AI Models</div>
+    </div>
+
+    <style>
+    @keyframes pulse-ring {{
+        0% {{ transform: scale(0.95); opacity: 1; }}
+        100% {{ transform: scale(1.15); opacity: 0; }}
+    }}
+    @keyframes glow-pulse {{
+        0% {{ opacity: 0.4; }}
+        100% {{ opacity: 1; }}
+    }}
+    @keyframes loading-dots {{
+        0%, 100% {{ opacity: 0.4; }}
+        50% {{ opacity: 1; }}
+    }}
+    </style>
+    """, unsafe_allow_html=True)
 
 import time as _time
 _t0 = _time.time()
 hybrid_search, researchers = load_search_engine()
 gemini_client = load_gemini()
-_elapsed = _time.time() - _t0
-if _elapsed < 2.5:
-    _time.sleep(2.5 - _elapsed)
-_splash.empty()
+
+if _show_splash:
+    _elapsed = _time.time() - _t0
+    if _elapsed < 2.5:
+        _time.sleep(2.5 - _elapsed)
+    _splash.empty()
+    st.session_state.splash_shown = True
 
 
 # ============== Backend Functions ==============
