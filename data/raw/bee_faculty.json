@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Beth A. Ahner",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "baa7@cornell.edu",
+    "lab": "Ahner Lab",
+    "personal_website": "https://blogs.cornell.edu/ahner/",
+    "research_interests": "Plant metal solubilization, uptake, detoxification, and sequestration; intracellular detoxification mechanisms; biogeochemical cycling of metals in natural and engineered systems; phytoremediation applications using plants to remove metals from contaminated soils; algae and plant applications in sustainable feed, food, and energy production; how organisms adapt to trace metal stress in the environment and their influence on metal forms; cyanobacteria manipulation of environments contributing to harmful algal blooms.",
+    "biography": "Professor Ahner's work focuses on how organisms adapt to trace metal stress in the environment and their influence on metal forms. Her research encompasses plant metal solubilization, uptake, detoxification, and sequestration, as well as biogeochemical cycling of metals in natural and engineered systems and phytoremediation applications. Recent research examines how cyanobacteria manipulate environments to suppress competitors, contributing to harmful algal blooms in lakes during warm seasons. She holds a Ph.D. and B.S. from the Massachusetts Institute of Technology."
+  },
+  {
+    "name": "C. Lindsay Anderson",
+    "position": "Professor and Chair",
+    "department": "Biological and Environmental Engineering",
+    "email": "cla28@cornell.edu",
+    "lab": "Anderson Energy Lab",
+    "personal_website": "https://andersonenergylab-cornell.github.io",
+    "research_interests": "Energy system decarbonization at the interface of environmental and systems engineering; electric power systems; applied optimization and decision science; wind generation uncertainty mitigation; power system cost implications; biofuels production uncertainties.",
+    "biography": "Professor Anderson serves as Professor and Chair of the Department of Biological and Environmental Engineering, House Professor Dean of William Keeton House, and Interim Director of the Cornell Energy Systems Institute. Her work centers on energy system decarbonization at the interface of environmental and systems engineering, electric power systems, applied optimization, and decision science. She earned her Ph.D. in Applied Mathematics from Western University (Canada), M.S. in Environmental Engineering from the University of Guelph, and B.Sc. in Environmental Engineering from the University of Guelph. She received the 2015 NSF CAREER Award and the 2021 Energy Systems Integration Group Award of Excellence."
+  },
+  {
+    "name": "Buz M. Barstow",
+    "position": "Associate Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "bmb35@cornell.edu",
+    "lab": "Barstow Lab",
+    "personal_website": "https://barstow.bee.cornell.edu",
+    "research_interests": "Synthetic biology for sustainable energy technologies; applying physics and synthetic biology to develop sustainable energy solutions; mathematical and computer models for synthetic biology; microbes that extract rare earth elements while capturing carbon.",
+    "biography": "Professor Barstow applies physics and synthetic biology to develop sustainable energy technologies. His research focuses on synthetic biology sustainable energy technologies using mathematical and computer models. Recent work includes collaboration on microbes that extract rare earth elements while capturing carbon. He holds an MSci from Imperial College (2001) and a Ph.D. in Applied Physics from Cornell University (2009). He is a recipient of the Burroughs-Wellcome Career Award at the Scientific Interface."
+  },
+  {
+    "name": "Natalie Cápiro",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "natalie.capiro@cornell.edu",
+    "lab": "Cápiro Lab",
+    "personal_website": "https://blogs.cornell.edu/capiro-lab/",
+    "research_interests": "Biotransformation of emerging and legacy organic contaminants including per- and polyfluoroalkyl substances (PFAS); degradation pathways; microbial community dynamics; interactions between biological and chemical processes affecting contaminant fate and transport; applied environmental microbiology; bioremediation strategies; nanoparticle-microbial interactions; natural attenuation assessment.",
+    "biography": "Dr. Cápiro's work focuses on biotransformation of emerging (e.g., per- and polyfluoroalkyl substances-PFAS) and legacy organic contaminants. Her research examines degradation pathways, microbial community dynamics, and interactions between biological and chemical processes affecting contaminant fate and transport. She holds a B.S. in Biological and Environmental Engineering from Cornell University and a Ph.D. in Civil and Environmental Engineering from Rice University. Previously she served as Research Assistant Professor at Tufts University and Assistant Professor at Auburn University. She has received the AEESP Distinguished Service Award (2023) and SERDP Environmental Restoration Project of the Year (2012)."
+  },
+  {
+    "name": "Michael Charles",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "mtc58@cornell.edu",
+    "lab": "Charles Research Group",
+    "personal_website": "https://blogs.cornell.edu/charles/",
+    "research_interests": "Computational sustainability frameworks with dynamic ecological models; landscape roles in addressing sustainability challenges; ecosystem services and human well-being; climate change impacts on Indigenous Nations' economies; nature-based solutions for climate mitigation and public health; participatory System Dynamics Modeling; Food-Energy-Water nexus sustainability; Indigenous food systems and Land Grant University history.",
+    "biography": "Dr. Michael Charles (Diné/Navajo) is an Assistant Professor and Cornell Provost's New Faculty Fellow, with affiliate appointments in the American Indian and Indigenous Studies Program and the Cornell Atkinson Center for Sustainability. He is dedicated to forming mutually respectful partnerships with Indigenous communities and combining computational methods with community-centered relationships. His postdoctoral research focused on Land Grant Universities' relationships to Indigenous dispossession. He advocates for Indigenous rights within UN Climate Negotiations and works to increase Indigenous representation in academia, policy, and social movements. He holds a B.S. in Chemical and Biomolecular Engineering from Cornell University and M.S. and Ph.D. in Chemical and Biomolecular Engineering from The Ohio State University."
+  },
+  {
+    "name": "Ashim K. Datta",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "akd1@cornell.edu",
+    "lab": "Datta Lab",
+    "personal_website": "https://blogs.cornell.edu/datta/",
+    "research_interests": "Physics of food processes; increased efficiency and competitiveness in food production, processing, and equipment design from physics-based models; food quality and safety across various heating modes including microwave and infrared technology; multiphase multicomponent porous media approaches to food processing.",
+    "biography": "Professor Datta investigates the physics of food processes, focusing on how increased efficiency and competitiveness in food production, processing, and equipment design can be obtained from physics-based models. His research group develops understanding of food quality and safety across various heating modes including microwave and infrared technology, emphasizing multiphase, multicomponent porous media approaches. He holds a Ph.D. from the University of Florida (1985), M.S. from the University of Illinois (1982), and B.Tech. from the Indian Institute of Technology (1979). He is a Stephen H. Weiss Presidential Fellow at Cornell University (2014) and a Fellow of the Institute of Food Technologists (2013)."
+  },
+  {
+    "name": "Jacqueline Gerson",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "jacqueline.gerson@cornell.edu",
+    "lab": "Gerson Lab",
+    "personal_website": "https://gersonlab.weebly.com",
+    "research_interests": "Biogeochemistry; contaminant fate and transport; nutrient cycling; water quality and sustainability; how anthropogenic activities have altered the cycling of nutrients and contaminants through watersheds; linked biogeochemical cycles within complex socioenvironmental systems; mercury and selenium interactions in aquatic organisms; atmospheric mercury pollution tracking using tree rings.",
+    "biography": "Dr. Gerson investigates how anthropogenic activities have altered the cycling of nutrients and contaminants through watersheds. Her research emphasizes the fate, transport, and transformation of elements within terrestrial and aquatic ecosystems, with particular attention to linked biogeochemical cycles within complex socioenvironmental systems. Recent work examines mercury and selenium interactions in aquatic organisms and uses tree rings to track atmospheric mercury pollution. She holds a Ph.D. in Ecology from Duke University, M.S. in Environmental Engineering Science from Syracuse University, and B.A. in Biochemistry from Colgate University."
+  },
+  {
+    "name": "Peter George Mueller Hess",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "peter.hess@cornell.edu",
+    "lab": "",
+    "personal_website": "",
+    "research_interests": "Understanding atmospheric chemistry within the context of the earth's climate system; how atmospheric composition may evolve through the 21st century; adaptive responses to climate change impacts on human health, agriculture, and ecosystems; integrating atmospheric chemical models with measurements; effects of anthropogenic emissions, agriculture activities, and land use changes on atmospheric composition and climate projections.",
+    "biography": "Professor Hess focuses on understanding atmospheric chemistry within the context of the earth's climate system. His work examines how atmospheric composition may evolve through the 21st century and explores adaptive responses to climate change impacts on human health, agriculture, and ecosystems. His research integrates atmospheric chemical models with measurements to understand historical and future atmospheric chemistry, examining how anthropogenic emissions, agriculture activities, and land use changes affect atmospheric composition and climate projections. He also directs graduate studies in his department and leads a university-wide climate change seminar series. He holds a B.A. from Cornell University (1979), M.S. from the University of Washington (1983), and Doctorate from the University of Washington (1988), and completed a postdoctoral fellowship at the National Center for Atmospheric Research (1990)."
+  },
+  {
+    "name": "Sunghwan (Sunny) Jung",
+    "position": "Professor and Director of Graduate Studies",
+    "department": "Biological and Environmental Engineering",
+    "email": "sj737@cornell.edu",
+    "lab": "Bio-Inspired Fluid Lab",
+    "personal_website": "https://sites.google.com/cornell.edu/sunnyjsh",
+    "research_interests": "Mechanics problems involving deformable interfaces interacting with fluids; mathematical modeling, fluid dynamics, and experimental methods to understand biological systems; animal drinking and jumping mechanisms; bird diving behavior; plant spore dispersal; raindrop impacts on biological surfaces; bio-robotics.",
+    "biography": "Dr. Jung investigates mechanics problems involving deformable interfaces interacting with fluids. His research integrates mathematical modeling, fluid dynamics, and experimental methods to understand biological systems. Key topics include animal drinking and jumping mechanisms, bird diving behavior, plant spore dispersal, and raindrop impacts on biological surfaces. He holds a Ph.D. in Physics from the University of Texas at Austin (2005), M.S. in Physics from Pohang University of Science and Technology (2001), and B.A. in Chemical Engineering from Sogang University (1999). He received the NSF Mid-Career Award (2021) and multiple APS-Division of Fluid Dynamics Milton Van Dyke Awards."
+  },
+  {
+    "name": "Manoj Karkee",
+    "position": "Norman R. and Sharon R. Scott Professor of Agriculture and Life Sciences",
+    "department": "Biological and Environmental Engineering",
+    "email": "mk2684@cornell.edu",
+    "lab": "Karkee Lab",
+    "personal_website": "https://agrobotics.cals.cornell.edu",
+    "research_interests": "Precision, automated and autonomous agricultural machinery and systems; AI, machine vision, and field robotics for smart farming; agricultural systems modeling, simulation and control; sensing technologies for agriculture.",
+    "biography": "Dr. Karkee directs a strong research and education program in the area of sensing, machine vision, AI, and Robotics in Agriculture. He holds the Norman R. and Sharon R. Scott Professorship. Previously, he held positions as director and professor at Washington State University's Center for Precision and Automated Agricultural Systems. He serves as Editor-in-Chief of Computers and Electronics in Agriculture. He earned his PhD in Agricultural Engineering and Human Computer Interaction from Iowa State University, ME in Remote Sensing and GIS from the Asian Institute of Technology (Thailand), and BE in Computer Engineering from Tribhuvan University (Nepal). He is a Fulbright Specialist (2020-2023) and received the Rain Bird Engineering Concept of the Year Award (2020)."
+  },
+  {
+    "name": "Dan Luo",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "dl79@cornell.edu",
+    "lab": "Luo Lab",
+    "personal_website": "http://luolabs.bee.cornell.edu",
+    "research_interests": "Nucleic acids as materials for applications beyond genetics; tree-shaped DNA; DNA gels; DNA-nanoparticle hybrid assemblies; diagnostics; pharmaceutics; protein production; drug delivery; cell culture; optoelectronics; nanobiotechnology; nucleic acid engineering.",
+    "biography": "Professor Luo's research focuses on nucleic acids as materials for applications beyond genetics. His lab develops tree-shaped DNA, DNA gels, and DNA-nanoparticle hybrid assemblies with practical applications in diagnostics, pharmaceutics, protein production, drug delivery, cell culture, and optoelectronics. He holds a Doctorate from The Ohio State University (1997) and a B.S. from the University of Science and Technology of China (1989). He is a College Fellow of the American Institute of Medical and Biological Engineering (2013) and a recipient of the Bill and Melinda Gates Foundation Grand Challenge Diagnostics Award (2011)."
+  },
+  {
+    "name": "Minglin Ma",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "mm826@cornell.edu",
+    "lab": "Ma Lab",
+    "personal_website": "https://blogs.cornell.edu/malab/",
+    "research_interests": "Developing advanced biomaterials for agricultural and biomedical applications; cell replacement therapies for type 1 diabetes; bio-inspired biomaterials for food packaging; biomaterial applications in vaccine development.",
+    "biography": "Professor Ma's research group focuses on developing advanced biomaterials for agricultural and biomedical applications with a particular focus on cell replacement therapies for type 1 diabetes. His work also includes bio-inspired biomaterials for food packaging and biomaterial applications in vaccine development. Prior to joining Cornell in 2013, Ma served as a Lead Scientist at General Electric Global Research Center and completed postdoctoral fellowship work in Dr. Robert Langer's laboratories at MIT Koch Institute. He holds a Ph.D. (2008) and M.S. (2007) in Chemical Engineering from MIT and a B.S. in Chemical Engineering from Tsinghua University (2003). He is the co-founder of Persista Bio, a startup aimed at improving diabetes management."
+  }
+]

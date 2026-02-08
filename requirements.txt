@@ -1,0 +1,40 @@
+# Academic Matcher Dependencies
+# ==============================
+
+# Core ML
+torch>=2.0.0
+transformers>=4.36.0,<5.0.0
+adapters>=1.0.1,<2.0.0  # Pin to stable 1.x API
+sentence-transformers>=2.2.0  # For embeddings and cross-encoder reranking
+
+# Vector search
+faiss-cpu>=1.7.4
+# Or for GPU (uncomment in Colab): faiss-gpu>=1.7.4
+
+# LLM
+google-generativeai>=0.3.0
+google-genai>=1.0.0
+
+# PDF
+PyPDF2>=3.0.0
+
+# Utils
+numpy>=1.24.0
+scipy>=1.10.0
+tqdm>=4.65.0
+
+# API Server
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Web demo
+streamlit>=1.20.0
+requests>=2.28.0
+
+# Note: BM25 is implemented natively in src/hybrid_search.py
+# No additional dependencies needed for hybrid search
+
+# Optional: for running in Colab
+# google-colab

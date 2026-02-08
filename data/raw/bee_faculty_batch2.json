@@ -1,0 +1,122 @@
+[
+  {
+    "name": "John March",
+    "position": "Professor and Director of Undergraduate Studies",
+    "department": "Biological and Environmental Engineering",
+    "email": "jcm224@cornell.edu",
+    "lab": "March Lab",
+    "personal_website": "https://blogs.cornell.edu/johnmarchlab/",
+    "research_interests": "Cell signaling and synthetic biology. Rewiring cellular signaling circuitry to enhance responsiveness and efficiency in both biological and technological applications. Signal transduction, metabolism, and eukaryotic-prokaryotic interactions, with applications in biomedicine and sustainability.",
+    "biography": "Professor March specializes in cell signaling and synthetic biology. His work involves rewiring cellular signaling circuitry to enhance responsiveness and efficiency in both biological and technological applications. Research areas include signal transduction, metabolism, and eukaryotic-prokaryotic interactions, with applications in biomedicine and sustainability. He received the Presidential Early Career Awards for Scientists and Engineers (PECASE) in 2011. He holds a Doctorate from the University of Maryland (2005), an M.S. from the University of Georgia (2000), and B.S. and B.A. degrees from the University of Georgia. He teaches ENGRI 1337: Introduction to Biological Engineering and BEE/ENGRD 2600: Principles of Biological Engineering."
+  },
+  {
+    "name": "David P. Orr",
+    "position": "Director, Cornell Local Roads Program; Senior Extension Associate",
+    "department": "Biological and Environmental Engineering",
+    "email": "david.orr@cornell.edu",
+    "lab": "",
+    "personal_website": "",
+    "research_interests": "Low volume roads and seasonal effects on pavements. Design, inspection, project management, purchasing, budgeting and supervision for local highway infrastructure. Technical assistance to highway and public works officials across New York State.",
+    "biography": "David P. Orr, PE, PhD, brings over 30 years of experience in the local highway community, with expertise spanning design, inspection, project management, purchasing, budgeting and supervision. He previously worked eight years at the Yates County Highway Department before joining Cornell. He earned his Ph.D. from Cornell University (2005) in Agricultural and Biological Engineering focusing on seasonal variations in road materials, and his B.S. from Cornell University (1987) in Civil and Environmental Engineering. He is a licensed Professional Engineer in the State of New York since 1993. Awards include the National LTAP Achievement Award (2019), NYS Association of Town Superintendents Vision Award (2019), and National Roadway Safety Award (2013)."
+  },
+  {
+    "name": "Brian Rahm",
+    "position": "Senior Extension Associate; Director, New York State Water Resources Institute",
+    "department": "Biological and Environmental Engineering",
+    "email": "bgr4@cornell.edu",
+    "lab": "",
+    "personal_website": "",
+    "research_interests": "Water resource infrastructure management and policy. Water engineering and infrastructure. Climate and flood resilience. Water quality monitoring and assessment. Aquatic ecosystems. Shale gas extraction impacts. Intersection of engineering, science, and policy associated with water resources.",
+    "biography": "Brian Rahm is from upstate New York and joined the New York State Water Resources Institute (NYSWRI) in 2010. He initially focused on the intersection of engineering, science, and policy associated with potential shale gas extraction in New York. His work has since expanded to encompass water resource infrastructure management and policy broadly, with emphasis on addressing state water challenges through interdisciplinary research, institutional capacity building, and stakeholder engagement. He teaches BEE 4670/6670 Applied Water Research In NYS, a seminar series addressing critical water resource problems through collaboration between academics, scientists, educators, managers, and policymakers."
+  },
+  {
+    "name": "Brian Richards",
+    "position": "Senior Research Associate",
+    "department": "Biological and Environmental Engineering",
+    "email": "bkr2@cornell.edu",
+    "lab": "Soil and Water Lab",
+    "personal_website": "https://soilandwaterlab.cornell.edu",
+    "research_interests": "Interaction of soil, water and a wide range of substances including trace elements, nutrients, pesticides, and colloids in environmental contexts. Agricultural and bioenergy cropping systems effects on soil quality and emissions. Life Cycle Sustainability Assessments for evaluating environmental, economic, and social impacts of systems.",
+    "biography": "Brian Richards is a Senior Research Associate in Biological and Environmental Engineering at Cornell University. His work examines the interaction of soil, water and a wide range of substances, including trace elements, nutrients, pesticides, and colloids in environmental contexts. Recent research priorities include studying how agricultural and bioenergy cropping systems affect soil quality and emissions. He instructs BEE 3299/5299 Sustainable Development, an interdisciplinary course where students conduct Life Cycle Sustainability Assessments to evaluate environmental, economic, and social impacts of systems. He earned his Doctorate from Cornell University (1999), M.P.S. from Cornell University (1982), and B.S. from Cornell University (1979). He received the Partnership Award for Mission Integration from USDA-CSREES in 2008."
+  },
+  {
+    "name": "Chris Roh",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "cr296@cornell.edu",
+    "lab": "Roh Lab",
+    "personal_website": "https://invivofluid.com",
+    "research_interests": "Fluid mechanics, entomology, comparative biomechanics, bio-inspired engineering, in vivo engineering. How insects adapt to fluid environments with applications to agricultural, biomedical, and aeronautical engineering. Dandelion seed dispersal mechanics. Ecological mechanics.",
+    "biography": "Professor Chris Roh focuses on fluid mechanics, entomology, comparative biomechanics, bio-inspired engineering, and in vivo engineering. His work examines how insects adapt to fluid environments and applies these findings to agricultural, biomedical, and aeronautical engineering. He earned his PhD in Aeronautics (2017) and M.S. in Aeronautics (2013) from the California Institute of Technology, and his B.S. in Biological Engineering with Honors and Biological Sciences (2012) from Cornell University, graduating Magna Cum Laude. He received an NSF Faculty Early Career Development Award (2025) for research on novel traits in organisms and fundamental understanding of extreme weather. He teaches BEE 3310/5310 Bio-Fluid Mechanics and BEE 4560/6560 Ecological Mechanics."
+  },
+  {
+    "name": "Rosa Santomartino",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "rosa.santomartino@cornell.edu",
+    "lab": "Rosa Santomartino Research Group",
+    "personal_website": "",
+    "research_interests": "Space microbiology and biotechnology. Microbial behavior under space conditions. Sustainable space exploration technologies. Plastic-degrading and bioleaching microorganisms. In situ resource utilization (ISRU). Bioregenerative life support systems (BLSS). Waste upcycling and recycling strategies. Applications of space research to Earth-based environmental challenges.",
+    "biography": "Dr. Rosa Santomartino is a space microbiologist and biotechnologist with a deep interest in understanding microbial behavior under space conditions. She earned her Ph.D. in Molecular Biology from Sapienza University of Rome and completed doctoral internships in France and Mexico, earning the Doctor Europaeus distinction. She holds a BSc in Biotechnology from the University of Rome 'Tor Vergata' and an MSc in Genomics, Industrial and Environmental Biotechnology from Sapienza University of Rome. Previously, she served as a postdoctoral researcher at the University of Edinburgh, leading space experiments aboard the International Space Station in collaboration with NASA and ESA. She became co-director of the UK Centre for Astrobiology in 2022 and is an advocate for equity and diversity in academia. Awards include the European Astrobiology Network Association conference poster prize (2024, 2021), Space&Earth Award (2023), and Leverhulme Early Career Fellowship (2022)."
+  },
+  {
+    "name": "Vivek Srikrishnan",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "viveks@cornell.edu",
+    "lab": "Srikrishnan Research Group",
+    "personal_website": "https://viveks.me",
+    "research_interests": "Quantifying impacts from climate change and identifying strategies for climate risk management. Systems engineering, data science, decision science, and economics applied to environmental challenges. Flood risk management. Energy system investments. Climate adaptation and mitigation strategies.",
+    "biography": "Professor Vivek Srikrishnan's work focuses on quantifying impacts from climate change and identifying strategies for climate risk management. His research applies systems engineering, data science, decision science, and economics to address environmental challenges ranging from flood risk management to energy system investments. He earned a B.A. in Philosophy and B.S. in Mathematics from the University of Illinois at Urbana-Champaign (2004), M.S. in Energy & Mineral Engineering from Penn State (2015), and Ph.D. in Energy & Mineral Engineering from Penn State (2018). He teaches BEE 4750/5750 Environmental Systems Analysis and BEE 4850/5850 Environmental Data Analysis and Simulation. In 2025, he was a recipient of the Cornell Atkinson Venture Fund award for climate solutions research."
+  },
+  {
+    "name": "Tammo Steenhuis",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "tss1@cornell.edu",
+    "lab": "Soil and Water Lab",
+    "personal_website": "",
+    "research_interests": "Landscape processes in the northeastern US, Ethiopia and China. Sustainable agricultural practices. Hydrological processes. Pesticide movement. Gully formation prevention. Groundwater. Soil and water engineering.",
+    "biography": "Professor Tammo Steenhuis conducts research on landscape processes in the northeastern US, Ethiopia and China, focusing on sustainable agricultural practices, hydrological processes, pesticide movement, and gully formation prevention. He earned his Ph.D. (1977) and M.S. (1975) from the University of Wisconsin, and his Ir (Engineer degree) (1972) and B.S. (1969) from the State Agricultural University of Netherlands. He is a Fellow of the American Geophysical Union (since 2009) and received the International Award from the American Geophysical Union (2011) and the Partnership Award for integrating science, education and extension from CSREES/USDA (2008). He also serves as Adjunct Professor at the University of Bahir Dar, Ethiopia. He teaches BEE 4270/5270 Water Measurement and Analysis Methods, BEE/EAS 4710/6710 Introduction to Groundwater, and BEE 7710 Soil and Water Engineering Seminar."
+  },
+  {
+    "name": "Scott Steinschneider",
+    "position": "Associate Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "ss3378@cornell.edu",
+    "lab": "Steinschneider Research Group",
+    "personal_website": "https://blogs.cornell.edu/steinschneider/",
+    "research_interests": "Statistical hydroclimatology. Characterization of hydroclimatic variability across space-time scales. Analysis of hydroclimate impacts in the water sector. Intersection between anthropogenic, hydrologic, and climatic systems. Water resources planning and management. Stochastic methods to quantify hydroclimate risks. Robust adaptation strategies for water services.",
+    "biography": "Dr. Scott Steinschneider specializes in statistical hydroclimatology with two main focus areas: characterization of hydroclimatic variability across space-time scales, and analysis of hydroclimate impacts in the water sector. His research addresses the intersection between anthropogenic, hydrologic, and climatic systems with emphasis on water resources planning and management. Three inter-related themes guide his program: assessing variability, predictability, and change of hydroclimate processes affecting water infrastructure; developing stochastic methods to quantify hydroclimate risks to water services; and identifying robust adaptation strategies to mitigate these risks. He earned a B.A. in Mathematics from Tufts University, and M.S. and Ph.D. in Civil and Environmental Engineering from the University of Massachusetts, Amherst. He was a postdoctoral research fellow at Columbia University before joining Cornell. His research is sponsored by the U.S. Army Corps of Engineers, NOAA, New York Sea Grant, NSF, and USDA. He teaches BEE 4310/6310 Environmental Statistics and Learning and BEE 6940 Environmental Statistics and Learning II."
+  },
+  {
+    "name": "M. Todd Walter",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "mtw5@cornell.edu",
+    "lab": "Soil and Water Lab",
+    "personal_website": "",
+    "research_interests": "Interactions between hydrology, ecology, and biogeochemistry. Linkages between hydrology and biogeochemical hotspots. Applications of nano-biotechnology to ecohydrological systems. Physical hydrology for ecosystems. Watershed engineering.",
+    "biography": "Professor M. Todd Walter specializes in the interactions between hydrology, ecology, and biogeochemistry. His current research focuses on linkages between hydrology and biogeochemical hotspots, plus applications of nano-biotechnology to ecohydrological systems. He earned his Doctorate from Washington State University in Biosystems Engineering (1995), MEng from Cornell University in Civil and Environmental Engineering (1991), and B.S. from Cornell University in Agricultural and Biological Engineering (1990). Awards include the SUNY Chancellor's Award for Excellence in Teaching (2015), Outstanding Teaching Award from Cornell University College of Engineering (2013, 2007), and USDA-CSREES Mission Integration Award (2008). He teaches BEE 3710/5710 Physical Hydrology for Ecosystems, BEE 4730/5730 Watershed Engineering, and BEE 7710 Soil and Water Engineering Seminar."
+  },
+  {
+    "name": "Mingming Wu",
+    "position": "Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "mw272@cornell.edu",
+    "lab": "Biofluidics Lab",
+    "personal_website": "http://biofluidics.bee.cornell.edu/",
+    "research_interests": "Micro- and nano-scale technologies for biological, medical, and environmental problems. Cellular movement within microenvironments. Cyanobacteria behavior in harmful algal blooms. Bacterium applications in rare-earth element processing. Biologically inspired microsystems engineering. Bioinstrumentation.",
+    "biography": "Professor Mingming Wu leads the Biofluidics Lab and specializes in developing micro- and nano-scale technologies. Her work addresses contemporary biological, medical, and environmental problems by studying cellular movement within microenvironments. The lab's motto reflects her approach: 'to see the unseeable and to measure the unmeasurable.' Recent research includes studies on cyanobacteria behavior in harmful algal blooms and bacterium applications in rare-earth element processing. She teaches BEE 4500 Bioinstrumentation and BEE 4550/6550 Biologically Inspired Microsystems Engineering."
+  },
+  {
+    "name": "Lirong Xiang",
+    "position": "Assistant Professor",
+    "department": "Biological and Environmental Engineering",
+    "email": "lxiang@cornell.edu",
+    "lab": "Xiang Lab",
+    "personal_website": "https://lr-xiang.github.io/lxweb/",
+    "research_interests": "Developing smart cyber-physical systems that integrate cutting-edge robotics, machine vision, and machine learning technologies for agriculture. AI and robotic sensing for controlled environment agriculture. Bio-inspired robotic systems for complex agricultural environments. Indoor and outdoor high-throughput phenotyping. Digital twins and simulation platforms for agricultural automation.",
+    "biography": "Dr. Lirong Xiang's work centers on developing smart cyber-physical systems that integrate cutting-edge robotics, machine vision, and machine learning technologies for agriculture. She earned her B.S. in Biosystems Engineering from Zhejiang University, China (2017) and Ph.D. in Agricultural and Biosystems Engineering from Iowa State University (2022). Previously, she was an Assistant Professor at NC State University in the Department of Biological and Agricultural Engineering, with affiliation to the Department of Electrical and Computer Engineering and NC Plant Sciences Initiative. She serves as a guest editor for Computers and Electronics in Agriculture and associate editor for the Journal of the ASABE. Awards include the Faculty Early Career Award from AOCABFE (2025), New Innovator Award from the Foundation for Food & Agriculture Research (2024), Outstanding Research Award from NC State University (2025), and The Reverend P.T. Taiganides Award for Outstanding Ph.D. Graduate (2022)."
+  }
+]

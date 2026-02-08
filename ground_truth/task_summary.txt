@@ -1,0 +1,19 @@
+LABELING TASK SUMMARY
+========================================
+
+Total tasks: 180
+Unique queries: 45
+
+By query type:
+  application: 20
+  broad: 20
+  challenge: 20
+  interdisciplinary: 20
+  natural: 20
+  specific: 20
+  technique: 20
+  verified: 40
+
+By source:
+  random: 45
+  system_result: 135

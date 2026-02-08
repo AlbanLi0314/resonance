@@ -1,0 +1,99 @@
+# Environment variables (contains API keys) - NEVER COMMIT
+.env
+.env.*
+*.key
+*.secret
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Claude session files
+.claude/
+
+# Large model caches
+*.onnx
+*.bin
+*.safetensors
+
+# Old data files (keep only dual_adapter.pkl and dual_adapter index)
+data/processed/researchers_s2_*
+data/processed/researchers_with_emb.pkl
+data/processed/researchers_emb_raw_text_*
+data/processed/researchers_enriched_*
+data/processed/researchers_optimized.pkl
+data/processed/query_embeddings_*
+data/processed/*.bak
+data/processed/*_report.json
+data/validation_results.json
+
+# Exclude non-essential indexes (keep only dual_adapter)
+data/index/faiss.index
+data/index/faiss_enriched.index
+data/index/faiss_optimized.index
+data/index/faiss_raw_text_enriched.index
+data/index/faiss_raw_text_optimized.index
+data/index/faiss_s2_enriched.index
+
+# Exclude experiment/enrichment data
+data/enriched/
+data/experiments/
+data/overnight_results/
+data/embedding_comparison/
+data/test_queries*.json
+
+# Exclude old raw data variants
+data/raw/researchers_enriched.json
+data/raw/researchers_expanded.json
+data/raw/researchers_production.json
+
+# Logs
+logs/
+
+# Planning/working docs (not needed in repo)
+*.dat
+all_faculty.json
+phd_*.json
+papers_metadata.json
+Cornell Researcher Database Construction.pdf
+AUTONOMOUS_EXECUTION_PLAN.json
+START_OVERNIGHT_RUN.sh
+OVERNIGHT_INSTRUCTIONS.md
+DATA_REQUIREMENTS.md
+EMBEDDING_IMPROVEMENT_PLAN.md
+ENRICHMENT_RESULTS.md
+EVALUATION_SUMMARY.md
+EXPERIMENT_PLAN.md
+HACKATHON_CHECKLIST.md
+OPTIMIZATION_RESULTS.md
+WORKFLOW.md
+academic_dating_app_tasks.md
+" Academic Dating App"*
+data_enrichment/
+
+# Old app files
+demo_app.py
+frontend/
+test_integration.py
+run.sh

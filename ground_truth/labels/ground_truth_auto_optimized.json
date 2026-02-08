@@ -1,0 +1,1249 @@
+{
+  "labels": [
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 2
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Dieter Ast",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Darrell Schlom",
+      "relevance_score": 3
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Dong-Oh Han",
+      "relevance_score": 0
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Huili Grace Xing",
+      "relevance_score": 2
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Hari Nair",
+      "relevance_score": 2
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "James R. Engstrom",
+      "relevance_score": 3
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Michael Thompson",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "R. B. van Dover",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Shefford P. Baker",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Fengqi You",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin film growth by molecular beam epitaxy",
+      "researcher_name": "Judy Cha",
+      "relevance_score": 1
+    },
+    {
+      "query": "gallium nitride power electronics",
+      "researcher_name": "Huili Grace Xing",
+      "relevance_score": 2
+    },
+    {
+      "query": "gallium nitride power electronics",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 2
+    },
+    {
+      "query": "gallium nitride power electronics",
+      "researcher_name": "R. B. van Dover",
+      "relevance_score": 0
+    },
+    {
+      "query": "gallium nitride power electronics",
+      "researcher_name": "Alton Harold Clark",
+      "relevance_score": 0
+    },
+    {
+      "query": "CRISPR gene editing in mammalian cells",
+      "researcher_name": "Eda Celik",
+      "relevance_score": 0
+    },
+    {
+      "query": "CRISPR gene editing in mammalian cells",
+      "researcher_name": "Marsha Kowal",
+      "relevance_score": 0
+    },
+    {
+      "query": "CRISPR gene editing in mammalian cells",
+      "researcher_name": "Minglin Ma",
+      "relevance_score": 0
+    },
+    {
+      "query": "CRISPR gene editing in mammalian cells",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 1
+    },
+    {
+      "query": "CRISPR gene editing in mammalian cells",
+      "researcher_name": "Ilana Lauren Brito",
+      "relevance_score": 2
+    },
+    {
+      "query": "polymer electrolyte membranes for fuel cells",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 1
+    },
+    {
+      "query": "polymer electrolyte membranes for fuel cells",
+      "researcher_name": "Jillian Goldfarb",
+      "relevance_score": 2
+    },
+    {
+      "query": "polymer electrolyte membranes for fuel cells",
+      "researcher_name": "Julia Dshemuchadse",
+      "relevance_score": 2
+    },
+    {
+      "query": "polymer electrolyte membranes for fuel cells",
+      "researcher_name": "Henrique Reis Moura",
+      "relevance_score": 0
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Darrell Schlom",
+      "relevance_score": 2
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Dieter Ast",
+      "relevance_score": 1
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Joel Donald Brock",
+      "relevance_score": 0
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Jennifer Gabriel",
+      "relevance_score": 0
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Hari Nair",
+      "relevance_score": 2
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Shefford P. Baker",
+      "relevance_score": 2
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "James R. Engstrom",
+      "relevance_score": 3
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "David Anthony Muller",
+      "relevance_score": 1
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 1
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "Michael Thompson",
+      "relevance_score": 1
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "James C. Hwang",
+      "relevance_score": 1
+    },
+    {
+      "query": "atomic layer deposition of oxide thin films",
+      "researcher_name": "R. B. van Dover",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanomaterials for energy storage",
+      "researcher_name": "Vibha Kalra",
+      "relevance_score": 2
+    },
+    {
+      "query": "nanomaterials for energy storage",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 2
+    },
+    {
+      "query": "nanomaterials for energy storage",
+      "researcher_name": "Tobias Hanrath",
+      "relevance_score": 2
+    },
+    {
+      "query": "nanomaterials for energy storage",
+      "researcher_name": "Gozde Aktas Eken",
+      "relevance_score": 1
+    },
+    {
+      "query": "computational modeling of materials",
+      "researcher_name": "James Weaver",
+      "relevance_score": 0
+    },
+    {
+      "query": "computational modeling of materials",
+      "researcher_name": "Meredith Silberstein",
+      "relevance_score": 2
+    },
+    {
+      "query": "computational modeling of materials",
+      "researcher_name": "Dzenana Javor",
+      "relevance_score": 0
+    },
+    {
+      "query": "computational modeling of materials",
+      "researcher_name": "Qiuming Yu",
+      "relevance_score": 1
+    },
+    {
+      "query": "biomedical imaging techniques",
+      "researcher_name": "Marco Farina",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomedical imaging techniques",
+      "researcher_name": "Warren R. Zipfel",
+      "relevance_score": 3
+    },
+    {
+      "query": "biomedical imaging techniques",
+      "researcher_name": "James C. Hwang",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomedical imaging techniques",
+      "researcher_name": "C. Thomas Avedisian",
+      "relevance_score": 0
+    },
+    {
+      "query": "sustainable chemical processes",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 1
+    },
+    {
+      "query": "sustainable chemical processes",
+      "researcher_name": "A. Brad Anton",
+      "relevance_score": 2
+    },
+    {
+      "query": "sustainable chemical processes",
+      "researcher_name": "Fengqi You",
+      "relevance_score": 2
+    },
+    {
+      "query": "sustainable chemical processes",
+      "researcher_name": "Austin Jerad Reese",
+      "relevance_score": 1
+    },
+    {
+      "query": "quantum information science",
+      "researcher_name": "Gregory David Fuchs",
+      "relevance_score": 3
+    },
+    {
+      "query": "quantum information science",
+      "researcher_name": "Matt Ferguson",
+      "relevance_score": 2
+    },
+    {
+      "query": "quantum information science",
+      "researcher_name": "Kaeli Ficco",
+      "relevance_score": 0
+    },
+    {
+      "query": "quantum information science",
+      "researcher_name": "James Weaver",
+      "relevance_score": 0
+    },
+    {
+      "query": "developing better batteries for electric vehicles",
+      "researcher_name": "R. B. van Dover",
+      "relevance_score": 1
+    },
+    {
+      "query": "developing better batteries for electric vehicles",
+      "researcher_name": "Vibha Kalra",
+      "relevance_score": 3
+    },
+    {
+      "query": "developing better batteries for electric vehicles",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 2
+    },
+    {
+      "query": "developing better batteries for electric vehicles",
+      "researcher_name": "Shiqi Li",
+      "relevance_score": 0
+    },
+    {
+      "query": "creating biocompatible implants",
+      "researcher_name": "Lawrence Bonassar",
+      "relevance_score": 2
+    },
+    {
+      "query": "creating biocompatible implants",
+      "researcher_name": "Yadong Wang",
+      "relevance_score": 2
+    },
+    {
+      "query": "creating biocompatible implants",
+      "researcher_name": "David A. Putnam",
+      "relevance_score": 2
+    },
+    {
+      "query": "creating biocompatible implants",
+      "researcher_name": "Henrique Reis Moura",
+      "relevance_score": 1
+    },
+    {
+      "query": "improving solar cell efficiency",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 1
+    },
+    {
+      "query": "improving solar cell efficiency",
+      "researcher_name": "Tobias Hanrath",
+      "relevance_score": 2
+    },
+    {
+      "query": "improving solar cell efficiency",
+      "researcher_name": "Hari Nair",
+      "relevance_score": 1
+    },
+    {
+      "query": "improving solar cell efficiency",
+      "researcher_name": "Joe Rogan",
+      "relevance_score": 0
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Mohammed Suliman M. Alshammasi",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Dharani Prasad Vadlamudi",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Aditi Seshadri",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Michael Thompson",
+      "relevance_score": 0
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Ilana Lauren Brito",
+      "relevance_score": 3
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Krystyn Van Vliet",
+      "relevance_score": 3
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Minglin Ma",
+      "relevance_score": 2
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Bella Xin",
+      "relevance_score": 2
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Yadong Wang",
+      "relevance_score": 3
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Mehryar Jannesari Ghomsheh",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Roseanna N. Zia",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Shaoyi Jiang",
+      "relevance_score": 3
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Soumyamouli Pal",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Nandini Ananth",
+      "relevance_score": 1
+    },
+    {
+      "query": "designing drug delivery nanoparticles",
+      "researcher_name": "Sahil Desai",
+      "relevance_score": 1
+    },
+    {
+      "query": "building soft robots",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 2
+    },
+    {
+      "query": "building soft robots",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 1
+    },
+    {
+      "query": "building soft robots",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 2
+    },
+    {
+      "query": "building soft robots",
+      "researcher_name": "Erik John Bidstrup",
+      "relevance_score": 0
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "James Weaver",
+      "relevance_score": 0
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "Dzenana Javor",
+      "relevance_score": 0
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "Michele Conrad",
+      "relevance_score": 0
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "Alexandra Werth",
+      "relevance_score": 0
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 2
+    },
+    {
+      "query": "machine learning for materials discovery",
+      "researcher_name": "Atieh Moridi",
+      "relevance_score": 1
+    },
+    {
+      "query": "microfluidics for biological assays",
+      "researcher_name": "Claudia Fischbach-Teschl",
+      "relevance_score": 3
+    },
+    {
+      "query": "microfluidics for biological assays",
+      "researcher_name": "Susan Daniel",
+      "relevance_score": 3
+    },
+    {
+      "query": "microfluidics for biological assays",
+      "researcher_name": "Brian Kirby",
+      "relevance_score": 3
+    },
+    {
+      "query": "microfluidics for biological assays",
+      "researcher_name": "Lara A. Estroff",
+      "relevance_score": 0
+    },
+    {
+      "query": "biomechanics of soft tissues",
+      "researcher_name": "Lawrence Bonassar",
+      "relevance_score": 3
+    },
+    {
+      "query": "biomechanics of soft tissues",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomechanics of soft tissues",
+      "researcher_name": "David A. Putnam",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomechanics of soft tissues",
+      "researcher_name": "Lara A. Estroff",
+      "relevance_score": 1
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Vibha Kalra",
+      "relevance_score": 2
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 3
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 1
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "R. B. van Dover",
+      "relevance_score": 1
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Emmanuel P. Giannelis",
+      "relevance_score": 2
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Jillian Goldfarb",
+      "relevance_score": 1
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "Andrej Singer",
+      "relevance_score": 3
+    },
+    {
+      "query": "electrochemistry for CO2 reduction",
+      "researcher_name": "A. Brad Anton",
+      "relevance_score": 1
+    },
+    {
+      "query": "3D printing of functional materials",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 2
+    },
+    {
+      "query": "3D printing of functional materials",
+      "researcher_name": "James Weaver",
+      "relevance_score": 2
+    },
+    {
+      "query": "3D printing of functional materials",
+      "researcher_name": "Lawrence Bonassar",
+      "relevance_score": 2
+    },
+    {
+      "query": "3D printing of functional materials",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 0
+    },
+    {
+      "query": "X-ray diffraction characterization",
+      "researcher_name": "Dzenana Javor",
+      "relevance_score": 0
+    },
+    {
+      "query": "X-ray diffraction characterization",
+      "researcher_name": "Atieh Moridi",
+      "relevance_score": 2
+    },
+    {
+      "query": "X-ray diffraction characterization",
+      "researcher_name": "Kristal Harry",
+      "relevance_score": 0
+    },
+    {
+      "query": "X-ray diffraction characterization",
+      "researcher_name": "Shuwen Yue",
+      "relevance_score": 0
+    },
+    {
+      "query": "electron microscopy at atomic resolution",
+      "researcher_name": "David Anthony Muller",
+      "relevance_score": 3
+    },
+    {
+      "query": "electron microscopy at atomic resolution",
+      "researcher_name": "Joel Donald Brock",
+      "relevance_score": 1
+    },
+    {
+      "query": "electron microscopy at atomic resolution",
+      "researcher_name": "James R. Engstrom",
+      "relevance_score": 0
+    },
+    {
+      "query": "electron microscopy at atomic resolution",
+      "researcher_name": "Polly M. Marion",
+      "relevance_score": 0
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Matthew Peter Miller",
+      "relevance_score": 2
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Mostafa Hassani",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Arvil Dasgupta",
+      "relevance_score": 0
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Shefford P. Baker",
+      "relevance_score": 3
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "James C. Hwang",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Krystyn Van Vliet",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Eve Donnelly",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Atieh Moridi",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "James Weaver",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Shaoyi Jiang",
+      "relevance_score": 1
+    },
+    {
+      "query": "nanoindentation mechanical testing",
+      "researcher_name": "Amal El-Ghazaly",
+      "relevance_score": 1
+    },
+    {
+      "query": "single molecule fluorescence microscopy",
+      "researcher_name": "Warren R. Zipfel",
+      "relevance_score": 2
+    },
+    {
+      "query": "single molecule fluorescence microscopy",
+      "researcher_name": "Matt Ferguson",
+      "relevance_score": 0
+    },
+    {
+      "query": "single molecule fluorescence microscopy",
+      "researcher_name": "James R. Engstrom",
+      "relevance_score": 0
+    },
+    {
+      "query": "single molecule fluorescence microscopy",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 0
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Jillian Goldfarb",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Shuwen Yue",
+      "relevance_score": 2
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "George Alvarado Lopez",
+      "relevance_score": 0
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Fengqi You",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Jeffrey D. Varner",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "David Anthony Muller",
+      "relevance_score": 2
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Paulette Clancy",
+      "relevance_score": 2
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 2
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Zhiting Tian",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Fernando Escobedo",
+      "relevance_score": 2
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "R\u00fcdiger Dieckmann",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 1
+    },
+    {
+      "query": "density functional theory calculations",
+      "researcher_name": "Sol Gruner",
+      "relevance_score": 1
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Jennifer Gabriel",
+      "relevance_score": 0
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Kristal Harry",
+      "relevance_score": 0
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Katie Jacoby",
+      "relevance_score": 0
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Matthew Peter Miller",
+      "relevance_score": 1
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Atieh Moridi",
+      "relevance_score": 2
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Shefford P. Baker",
+      "relevance_score": 1
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 1
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Mostafa Hassani",
+      "relevance_score": 2
+    },
+    {
+      "query": "who works on making stronger lightweight metals",
+      "researcher_name": "Amal El-Ghazaly",
+      "relevance_score": 1
+    },
+    {
+      "query": "looking for expertise in protein folding",
+      "researcher_name": "Matthew DeLisa",
+      "relevance_score": 2
+    },
+    {
+      "query": "looking for expertise in protein folding",
+      "researcher_name": "Ilana Lauren Brito",
+      "relevance_score": 2
+    },
+    {
+      "query": "looking for expertise in protein folding",
+      "researcher_name": "Spencer Sabatino",
+      "relevance_score": 1
+    },
+    {
+      "query": "looking for expertise in protein folding",
+      "researcher_name": "Ayobami Ogundiran",
+      "relevance_score": 0
+    },
+    {
+      "query": "looking for expertise in protein folding",
+      "researcher_name": "Warren R. Zipfel",
+      "relevance_score": 1
+    },
+    {
+      "query": "need help with rheology measurements",
+      "researcher_name": "Sarah Hormozi",
+      "relevance_score": 3
+    },
+    {
+      "query": "need help with rheology measurements",
+      "researcher_name": "Donald L. Koch",
+      "relevance_score": 3
+    },
+    {
+      "query": "need help with rheology measurements",
+      "researcher_name": "Sol Gruner",
+      "relevance_score": 0
+    },
+    {
+      "query": "need help with rheology measurements",
+      "researcher_name": "Pulkit Jain",
+      "relevance_score": 1
+    },
+    {
+      "query": "research on preventing corrosion",
+      "researcher_name": "Alton Harold Clark",
+      "relevance_score": 0
+    },
+    {
+      "query": "research on preventing corrosion",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 2
+    },
+    {
+      "query": "research on preventing corrosion",
+      "researcher_name": "Jennifer Gabriel",
+      "relevance_score": 0
+    },
+    {
+      "query": "research on preventing corrosion",
+      "researcher_name": "Sabarish Vadanakurussi Narayanan",
+      "relevance_score": 1
+    },
+    {
+      "query": "studying how cells respond to mechanical forces",
+      "researcher_name": "Eric Dufresne",
+      "relevance_score": 2
+    },
+    {
+      "query": "studying how cells respond to mechanical forces",
+      "researcher_name": "Lawrence Bonassar",
+      "relevance_score": 3
+    },
+    {
+      "query": "studying how cells respond to mechanical forces",
+      "researcher_name": "Krystyn Van Vliet",
+      "relevance_score": 2
+    },
+    {
+      "query": "studying how cells respond to mechanical forces",
+      "researcher_name": "Joe Rogan",
+      "relevance_score": 0
+    },
+    {
+      "query": "semiconductor thin films and oxide electronics",
+      "researcher_name": "Darrell Schlom",
+      "relevance_score": 2
+    },
+    {
+      "query": "semiconductor thin films and oxide electronics",
+      "researcher_name": "Dieter Ast",
+      "relevance_score": 2
+    },
+    {
+      "query": "semiconductor thin films and oxide electronics",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 1
+    },
+    {
+      "query": "semiconductor thin films and oxide electronics",
+      "researcher_name": "Yadong Wang",
+      "relevance_score": 0
+    },
+    {
+      "query": "biomaterials for bone tissue engineering",
+      "researcher_name": "Yadong Wang",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomaterials for bone tissue engineering",
+      "researcher_name": "Lawrence Bonassar",
+      "relevance_score": 2
+    },
+    {
+      "query": "biomaterials for bone tissue engineering",
+      "researcher_name": "David A. Putnam",
+      "relevance_score": 3
+    },
+    {
+      "query": "biomaterials for bone tissue engineering",
+      "researcher_name": "Kenji Yasuda",
+      "relevance_score": 0
+    },
+    {
+      "query": "nanoparticle synthesis and colloidal nanomaterials",
+      "researcher_name": "Richard Douglas Robinson",
+      "relevance_score": 3
+    },
+    {
+      "query": "nanoparticle synthesis and colloidal nanomaterials",
+      "researcher_name": "Tobias Hanrath",
+      "relevance_score": 2
+    },
+    {
+      "query": "nanoparticle synthesis and colloidal nanomaterials",
+      "researcher_name": "Alfred Center",
+      "relevance_score": 0
+    },
+    {
+      "query": "nanoparticle synthesis and colloidal nanomaterials",
+      "researcher_name": "Kent Emir Goklen",
+      "relevance_score": 0
+    },
+    {
+      "query": "polymer materials design and block copolymer self-assembly",
+      "researcher_name": "Christopher A. Alabi",
+      "relevance_score": 2
+    },
+    {
+      "query": "polymer materials design and block copolymer self-assembly",
+      "researcher_name": "Julia Dshemuchadse",
+      "relevance_score": 2
+    },
+    {
+      "query": "polymer materials design and block copolymer self-assembly",
+      "researcher_name": "Christopher K. Ober",
+      "relevance_score": 1
+    },
+    {
+      "query": "polymer materials design and block copolymer self-assembly",
+      "researcher_name": "Jacob Belding",
+      "relevance_score": 0
+    },
+    {
+      "query": "battery technology and electrochemical energy storage",
+      "researcher_name": "Vibha Kalra",
+      "relevance_score": 3
+    },
+    {
+      "query": "battery technology and electrochemical energy storage",
+      "researcher_name": "Fengqi You",
+      "relevance_score": 1
+    },
+    {
+      "query": "battery technology and electrochemical energy storage",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 2
+    },
+    {
+      "query": "battery technology and electrochemical energy storage",
+      "researcher_name": "Ashley Bohn",
+      "relevance_score": 0
+    },
+    {
+      "query": "topological materials and quantum computing applications",
+      "researcher_name": "Judy Cha",
+      "relevance_score": 3
+    },
+    {
+      "query": "topological materials and quantum computing applications",
+      "researcher_name": "Kenji Yasuda",
+      "relevance_score": 2
+    },
+    {
+      "query": "topological materials and quantum computing applications",
+      "researcher_name": "Gregory David Fuchs",
+      "relevance_score": 2
+    },
+    {
+      "query": "topological materials and quantum computing applications",
+      "researcher_name": "Shefford P. Baker",
+      "relevance_score": 0
+    },
+    {
+      "query": "additive manufacturing and 3D printing of materials",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 3
+    },
+    {
+      "query": "additive manufacturing and 3D printing of materials",
+      "researcher_name": "Michele Conrad",
+      "relevance_score": 0
+    },
+    {
+      "query": "additive manufacturing and 3D printing of materials",
+      "researcher_name": "James Weaver",
+      "relevance_score": 2
+    },
+    {
+      "query": "additive manufacturing and 3D printing of materials",
+      "researcher_name": "Harry Shu",
+      "relevance_score": 0
+    },
+    {
+      "query": "drug delivery systems and nanomedicine",
+      "researcher_name": "William Olbricht",
+      "relevance_score": 3
+    },
+    {
+      "query": "drug delivery systems and nanomedicine",
+      "researcher_name": "Mohammed Suliman M. Alshammasi",
+      "relevance_score": 0
+    },
+    {
+      "query": "drug delivery systems and nanomedicine",
+      "researcher_name": "Yadong Wang",
+      "relevance_score": 3
+    },
+    {
+      "query": "drug delivery systems and nanomedicine",
+      "researcher_name": "Joel Donald Brock",
+      "relevance_score": 0
+    },
+    {
+      "query": "thermal transport and heat transfer in nanomaterials",
+      "researcher_name": "Zhiting Tian",
+      "relevance_score": 2
+    },
+    {
+      "query": "thermal transport and heat transfer in nanomaterials",
+      "researcher_name": "Katie Jacoby",
+      "relevance_score": 0
+    },
+    {
+      "query": "thermal transport and heat transfer in nanomaterials",
+      "researcher_name": "C. Thomas Avedisian",
+      "relevance_score": 1
+    },
+    {
+      "query": "thermal transport and heat transfer in nanomaterials",
+      "researcher_name": "Nupur Mehra",
+      "relevance_score": 1
+    },
+    {
+      "query": "protein engineering and synthetic biology",
+      "researcher_name": "Matthew DeLisa",
+      "relevance_score": 2
+    },
+    {
+      "query": "protein engineering and synthetic biology",
+      "researcher_name": "Samuel Baffour",
+      "relevance_score": 0
+    },
+    {
+      "query": "protein engineering and synthetic biology",
+      "researcher_name": "Samuel Banuna",
+      "relevance_score": 0
+    },
+    {
+      "query": "protein engineering and synthetic biology",
+      "researcher_name": "Perrine Pepiot",
+      "relevance_score": 0
+    },
+    {
+      "query": "protein engineering and synthetic biology",
+      "researcher_name": "Ilana Lauren Brito",
+      "relevance_score": 3
+    },
+    {
+      "query": "phase field modeling of solidification",
+      "researcher_name": "Sol Gruner",
+      "relevance_score": 0
+    },
+    {
+      "query": "phase field modeling of solidification",
+      "researcher_name": "R\u00fcdiger Dieckmann",
+      "relevance_score": 2
+    },
+    {
+      "query": "phase field modeling of solidification",
+      "researcher_name": "Petru Petrina",
+      "relevance_score": 0
+    },
+    {
+      "query": "phase field modeling of solidification",
+      "researcher_name": "Donald L. Koch",
+      "relevance_score": 0
+    },
+    {
+      "query": "metamaterials with negative refractive index",
+      "researcher_name": "Hari Nair",
+      "relevance_score": 2
+    },
+    {
+      "query": "metamaterials with negative refractive index",
+      "researcher_name": "Marco Farina",
+      "relevance_score": 1
+    },
+    {
+      "query": "metamaterials with negative refractive index",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 1
+    },
+    {
+      "query": "metamaterials with negative refractive index",
+      "researcher_name": "Dzenana Javor",
+      "relevance_score": 0
+    },
+    {
+      "query": "topological insulators for spintronics",
+      "researcher_name": "Judy Cha",
+      "relevance_score": 2
+    },
+    {
+      "query": "topological insulators for spintronics",
+      "researcher_name": "Gregory David Fuchs",
+      "relevance_score": 2
+    },
+    {
+      "query": "topological insulators for spintronics",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 0
+    },
+    {
+      "query": "topological insulators for spintronics",
+      "researcher_name": "Amal El-Ghazaly",
+      "relevance_score": 1
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Darrell Schlom",
+      "relevance_score": 0
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Tobias Hanrath",
+      "relevance_score": 2
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Debdeep Jena",
+      "relevance_score": 0
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Jingjie Yeo",
+      "relevance_score": 0
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Jin Suntivich",
+      "relevance_score": 2
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Vibha Kalra",
+      "relevance_score": 1
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "R\u00fcdiger Dieckmann",
+      "relevance_score": 1
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Hari Nair",
+      "relevance_score": 1
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Judy Cha",
+      "relevance_score": 1
+    },
+    {
+      "query": "perovskite photovoltaics stability",
+      "researcher_name": "Qiuming Yu",
+      "relevance_score": 1
+    },
+    {
+      "query": "liquid crystal elastomers for actuators",
+      "researcher_name": "Robert F. Shepherd",
+      "relevance_score": 2
+    },
+    {
+      "query": "liquid crystal elastomers for actuators",
+      "researcher_name": "Dieter Ast",
+      "relevance_score": 0
+    },
+    {
+      "query": "liquid crystal elastomers for actuators",
+      "researcher_name": "James C. Hwang",
+      "relevance_score": 1
+    },
+    {
+      "query": "liquid crystal elastomers for actuators",
+      "researcher_name": "Shikhar Singh",
+      "relevance_score": 0
+    }
+  ],
+  "metadata": {
+    "version": "auto_optimized_v1",
+    "baseline_p1": 0.4888888888888889,
+    "improved_p1": 0.6666666666666666
+  }
+}

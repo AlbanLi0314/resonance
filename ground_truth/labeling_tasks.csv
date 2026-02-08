@@ -1,0 +1,867 @@
+task_id,query,query_type,researcher_name,researcher_department,researcher_position,researcher_summary,source,system_rank,relevance_score,notes
+1,semiconductor thin film growth by molecular beam epitaxy,specific,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,1,,
+2,semiconductor thin film growth by molecular beam epitaxy,specific,Dieter Ast,Materials Science and Engineering,Emeritus,"Research Interests
+Thin Film Electronics, Flat Panel Displays, Glass Substrates for Flat Panel Displays.",system_result,2,,
+3,semiconductor thin film growth by molecular beam epitaxy,specific,Darrell Schlom,Materials Science and Engineering,Tisch University Professor,"Research Interests
+The focus of my group’s research is investigating and perfecting the properties of oxide materials for electronic uses. To do this, we grow oxide thin films on single crystal substrates of closely related substances. The single crystal substrate provides a structural template for the thin films that we grow. The films follow this atomic template and are thus said to be epitaxial (inheriting their crystalline arrangement from the underlying substrate). Our focus on oxides is du",system_result,3,,
+4,semiconductor thin film growth by molecular beam epitaxy,specific,Dong-Oh Han,Chemical and Biomolecular Engineering,PhD Student,"PhD student in Chemical and Biomolecular Engineering. Member of Li Group. Advised by Sijin Li. Publications: Cutting-edge plant natural product pathway elucidation; CYP screening for a better terpenoid world; De novo biosynthesis of berberine and halogenated benzylisoquinoline alkaloids in Saccharomyces cerevisiae; MULTI-SCULPT: Multiplex Integration via Selective CRISPR-Mediated, Ultralong Pathway Transformation in Yeast for Plant Natural Product Synthesis; Engineering Saccharomyces cerevisiae ",random,,,
+5,gallium nitride power electronics,specific,Huili Grace Xing,Materials Science and Engineering,William L. Quackenbush Professor of Engineering,"Research Interests
+Xing’s research work can be loosely categorized into 4 areas, supported by DoD, NSF, SRC, DoE, etc.
+III-V Nitride materials and devices. Example projects include AlN/GaN ultrascaled high electron/hole mobility transistors for high-speed high-power applications, fundamental science of polarization doping in polar semiconductors, applications of polar semiconductors in electronics and in photonics including UV optoelectronics, non-linear optical materials, piezoelectric properti",system_result,1,,
+6,gallium nitride power electronics,specific,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,2,,
+7,gallium nitride power electronics,specific,R. B. van Dover,Materials Science and Engineering,"Walter S. Carpenter, Jr. Professor of Engineering","Research Interests
+UHF properties of magnetic thin films: Synthesis and characterization of novel optical materials (nonlinear materials, thin film gain media, etc.) * Characterization of nanometer-scale materials: superconductors, dielectrics, and magnetic materials * Electronic phase diagrams determined by induced surface charges rather than chemical doping * Composition-spread approach to parallelized synthesis/characterization of materials, including novel catalysts for direct-methanol fuel ",system_result,3,,
+8,gallium nitride power electronics,specific,Alton Harold Clark,Materials Science and Engineering,Adjunct ProfessorTemp Serv Tech,"View all 			Faculty 		
+Alton Harold Clark
+Adjunct Professor
+Temp Serv Tech
+Department of Materials Science and Engineering
+LocationBard Hall, Room 210
+Emailahc4@cornell.edu",random,,,
+9,CRISPR gene editing in mammalian cells,specific,Eda Celik,Chemical and Biomolecular Engineering,"Associate Director, Masters of Engineering Program—Biomolecular EngineeringTeaching Professor","View all 			Faculty 		
+Eda Celik
+Associate Director, Masters of Engineering Program—Biomolecular Engineering
+Teaching Professor
+R.F. Smith School of Chemical and Biomolecular Engineering
+Location248 Olin Hall
+Phone607-255-4423
+Emailec525@cornell.edu
+Biography
+Eda Celik joined the Smith School of Chemical and Biomolecular Engineering in the summer of 2024. She received her B.S. (2001), M.S. (2003), and Ph.D. (2008) degrees from the Department of Chemical Engineering, Middle East Technical Univers",system_result,1,,
+10,CRISPR gene editing in mammalian cells,specific,Marsha Kowal,Chemical and Biomolecular Engineering,Associate Director of Graduate StudiesAssociate Teaching Professor,"View all 			Faculty 		
+Marsha Kowal
+Associate Director of Graduate Studies
+Associate Teaching Professor 
+R.F. Smith School of Chemical and Biomolecular Engineering
+LocationOlin Hall, Room 248A
+Phone607-255-8611
+Emailmcl238@cornell.edu
+Biography
+Marsha Kowal is a Senior Lecturer and the Associate Director of Graduate Studies for the Smith School of Chemical and Biomolecular Engineering at Cornell University. She earned her B.S. in Bioengineering from Oregon State University where she completed an",system_result,2,,
+11,CRISPR gene editing in mammalian cells,specific,Minglin Ma,Chemical and Biomolecular Engineering,Professor,"Breadcrumb
+Home
+Research
+Our Experts
+ Minglin Ma 
+ 	 	 Minglin Ma 	 	 
+Professor, Biological and Environmental Engineering 
+About
+Minglin Ma is a Professor at the Biological and Environmental Engineering Department of Cornell University. He received his BS degree from Tsinghua University and PhD from MIT, both in Chemical Engineering. Prior to joining Cornell in 2013, he worked as a Lead Scientist at General Electric Global Research Center and as a postdoctoral fellow in Dr. Robert Langer’s labo",system_result,3,,
+12,CRISPR gene editing in mammalian cells,specific,Eric Dufresne,Materials Science and Engineering,Professor,"Research Interests
+The Laboratory of Soft and Living Materials ↗ focuses on biological and biologically-inspired materials.  Our research is focused on quantitative physical experiments but integrates elements of cell biology, biochemistry, and theory as needed.
+Advanced Materials
+Biomedical Engineering
+Biomechanics and Mechanobiology
+Colloids and Interfacial Science
+Materials Synthesis and Processing
+Mechanics of Biological Materials
+Molecular and Cellular Engineering
+Polymers and Soft Matter",random,,,
+13,polymer electrolyte membranes for fuel cells,specific,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,1,,
+14,polymer electrolyte membranes for fuel cells,specific,Jillian Goldfarb,Chemical and Biomolecular Engineering,Associate ProfessorDuffield Engineering Dean’s FellowDirector of Undergraduate Studies for Archeology,"Research Interests
+Energy and the Environment
+Combustion
+Energy Systems
+Sustainable Energy Systems
+Energy, Mineral, and Water Resources
+Environmental Processes
+Heat and Mass Transfer
+Materials Design
+Polymers and Soft Matter
+Colloids and Interfacial Science
+COVID-19 Related Research
+Engineering",system_result,2,,
+15,polymer electrolyte membranes for fuel cells,specific,Julia Dshemuchadse,Materials Science and Engineering,Assistant Professor,"Research Interests
+Advanced Materials
+Colloids and Interfacial Science
+Polymers and Soft Matter
+Materials Design",system_result,3,,
+16,polymer electrolyte membranes for fuel cells,specific,Henrique Reis Moura,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering.,random,,,
+17,atomic layer deposition of oxide thin films,specific,Darrell Schlom,Materials Science and Engineering,Tisch University Professor,"Research Interests
+The focus of my group’s research is investigating and perfecting the properties of oxide materials for electronic uses. To do this, we grow oxide thin films on single crystal substrates of closely related substances. The single crystal substrate provides a structural template for the thin films that we grow. The films follow this atomic template and are thus said to be epitaxial (inheriting their crystalline arrangement from the underlying substrate). Our focus on oxides is du",system_result,1,,
+18,atomic layer deposition of oxide thin films,specific,Dieter Ast,Materials Science and Engineering,Emeritus,"Research Interests
+Thin Film Electronics, Flat Panel Displays, Glass Substrates for Flat Panel Displays.",system_result,2,,
+19,atomic layer deposition of oxide thin films,specific,Joel Donald Brock,Materials Science and Engineering,Director of Master of Science and Master of Engineering ProgramsGiven Foundation Professor of Engineering Director of CHESS,"Research Interests
+For over 100 years, our fundamental understanding of the structure of materials on atomic length scales has been advanced by direct structural measurements using x-rays. Modern synchrotrons provide over 8 orders of magnitude higher fluxes than laboratory based sources. This flux enables us to utilize higher resolution: higher angular resolution for diffraction, higher energy resolution for spectroscopies, higher time resolution for dynamics, and higher spatial resolution for i",system_result,3,,
+20,atomic layer deposition of oxide thin films,specific,Jennifer Gabriel,Materials Science and Engineering,Major Gift Officer,"View all 			Staff 		
+Jennifer Gabriel
+Major Gift Officer
+LocationCarpenter Hall, Room 253 
+Emailjgabriel@cornell.edu",random,,,
+21,nanomaterials for energy storage,broad,Vibha Kalra,Chemical and Biomolecular Engineering,Fred H. Rhodes Professor of Chemical EngineeringKathy Dwyer Marble and Curt Marble Faculty Director at the Cornell Atkinson Center for Sustainability,"Research Interests
+In our group, we combine fundamental discoveries in material assembly, morphology and chemistry with electrochemistry and in-operando spectroscopy to develop efficient energy storage devices, particularly next generation batteries such as Li/Na/K-S, solid-state batteries, and anode-less battery designs. Our specific areas of interest include:
+Design of novel electrode materials and electrolyte additives to enhance the physical and chemical phenomena relevant for batteries.
+In-",system_result,1,,
+22,nanomaterials for energy storage,broad,Jin Suntivich,Materials Science and Engineering,Associate Professor,"Research Interests
+Our core interest is in materials sustainability. Current efforts include materials for energy storage and conversion technologies, mitigation strategies for materials corrosions in harsh environments, in-situ tools for probing interface dynamics, and novel methods for separation applications.
+Advanced Materials
+Energy Systems
+Energy and the Environment
+Surface Science
+Sensors and Actuators
+Nanotechnology",system_result,2,,
+23,nanomaterials for energy storage,broad,Tobias Hanrath,Materials Science and Engineering,Croll Professor in Engineering,"Research Interests
+There is a tremendous opportunity space for nanostructured materials to play a key role in next generation energy technologies. Our research efforts focus on the fundamental study of optoelectronic properties of semiconductor nanocrystals; this work is inspired by the potential application of these materials in solar energy conversion and energy storage devices. The semiconductor nanocrystals used in our work provide a diverse set of building blocks whose electronic and optica",system_result,3,,
+24,nanomaterials for energy storage,broad,Gozde Aktas Eken,Materials Science and Engineering,Research Associate,"View all 			Advisor 		
+Gozde Aktas Eken
+Research Associate
+Department of Materials Science and Engineering
+LocationBard Hall, Room 360
+Phone607-280-8225
+Emailga352@cornell.edu
+Biography
+Gozde Aktas Eken is a research associate at Cornell Materials Science and Engineering. With a background in polymer chemistry and bioengineering, her research focuses on developing adaptive materials and interfaces through the fusion of macromolecular engineering and lithography techniques. After receiving her Ph",random,,,
+25,computational modeling of materials,broad,James Weaver,Materials Science and Engineering,Associate Professor,"Research Interests
+Weaver’s research primarily focuses on the following three areas:
+Multi-scale image and materials characterization
+Advanced manufacturing and 3D data visualization
+Biologically inspired materials, architecture, and design",system_result,1,,
+26,computational modeling of materials,broad,Meredith Silberstein,Materials Science and Engineering,Professor,"Research Interests
+Meredith Silberstein’s Mechanics for Materials Design (MMD) Lab is devoted to using mechanical experiments and modeling methods in material design, with particular focus on multifunctional, active, and polymeric materials.
+Computational Solid Mechanics
+Materials Design
+Micro Nano Systems
+Solid Mechanics
+Advanced Manufacturing and Materials",system_result,2,,
+27,computational modeling of materials,broad,Dzenana Javor,Materials Science and Engineering,Lead Finance,"View all 			Staff 		
+Dzenana Javor
+Lead Finance
+LocationBard Hall, Room 210D
+Phone607-255-9160
+Emaildj237@cornell.edu",system_result,3,,
+28,computational modeling of materials,broad,Qiuming Yu,Materials Science and Engineering,ProfessorDirector of Graduate Studies,"Research Interests
+Professor Yu’s research focuses on the fundamental studies of plasmonic and semiconductor materials and the development of devices for biosensing and optoelectronic applications with an integrated computational and experimental approach. For biosensing, her research group is primarily using optical signals, specifically, surface plasmon resonance and surface-enhanced Raman scattering, as the transducing mechanism. They have designed plasmonic nanostructures and developed surfa",random,,,
+29,biomedical imaging techniques,broad,Marco Farina,Materials Science and Engineering,Mary J. Upson Visiting Professor,"Research Interests
+Electromagnetic modeling
+Design of passive and active microwave components/structures
+Scanning probe microscopy, in particular Near-Field Scanning Microwave Microscopy (SMM)
+Nanotechnology
+Measurement and calibration techniques
+Biomedical imaging and sensors
+Advanced materials",system_result,1,,
+30,biomedical imaging techniques,broad,Warren R. Zipfel,Chemical and Biomolecular Engineering,Associate Professor,"Research Interests
+Biomedical Imaging and Instrumentation
+Bioengineering
+Nanobio Applications
+Biomedical Engineering
+Image Analysis
+Biophysics",system_result,2,,
+31,biomedical imaging techniques,broad,James C. Hwang,Materials Science and Engineering,Research Professor,"Research Interests
+Electronic, optical, and micro-electromechanical devices and circuits.
+Advanced Materials
+Advanced Materials Processing
+Materials Synthesis and Processing
+Semiconductor Physics and Devices
+Nanotechnology
+Biomedical Imaging and Instrumentation
+Sensors and Actuators",system_result,3,,
+32,biomedical imaging techniques,broad,C. Thomas Avedisian,Materials Science and Engineering,Professor,"Research Interests
+We are pursuing research that cuts across a variety of disciplines, including heat transfer and combustion. Problems are pursued from an experimental (as contrasted with a purely computational or theoretical) approach. Current projects include studies of droplet combustion, film boiling to promote thermal decomposition or organic liquids, and phase change processes of highly superheated liquids.
+Heat and Mass transfer
+Multiphase and Granular Flows
+Energy Systems
+Energy and the",random,,,
+33,sustainable chemical processes,broad,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,1,,
+34,sustainable chemical processes,broad,A. Brad Anton,Chemical and Biomolecular Engineering,Associate Professor Emeritus,"Research Interests
+Professor Anton’s research investigates the mechanisms, kinetics, and thermodynamics of chemical reactions in fluids and at interfaces between fluid and solid phases.
+Sustainable Energy Systems",system_result,2,,
+35,sustainable chemical processes,broad,Fengqi You,Chemical and Biomolecular Engineering,"Roxanne E. and Michael J. Zak Professor in Energy Systems EngineeringChair of Ph.D. Studies, Systems Engineering","Research Interests
+You’s is an interdisciplinary systems engineering and artificial intelligence research group that focuses on the development of advanced computational models, optimization algorithms, statistical machine learning methods, and multi-scale systems analysis tools for smart manufacturing, digital agriculture, data analytics, energy systems, and sustainability. We seek to provide a balance between theory, computation and real-world applications through our synergistic research that",system_result,3,,
+36,sustainable chemical processes,broad,Austin Jerad Reese,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Hanrath Group. Advised by Tobias Hanrath.,random,,,
+37,quantum information science,broad,Gregory David Fuchs,Materials Science and Engineering,James R. Meehl Professor,"Research Interests
+The Fuchs Group focuses on quantum informa­tion science and spintronics. We study and manipulate spin and optical degrees of freedom in solid-state materials. Although we are primarily a condensed matter physics research group, we draw inspiration from many fields including atomic physics, materials science, and electrical engineering.
+We are interested in hybrid quantum systems, in which disparate degrees of freedom interact coherently. Such systems can form the basis of futu",system_result,1,,
+38,quantum information science,broad,Matt Ferguson,Materials Science and Engineering,Assistant Professor,"Research Interests
+Research in our group revolves around developing new approaches for identifying and controlling the electronic properties of quantum materials. These materials exhibit behavior which is unavailable in the semiconductors, metals and insulators which make up the majority of our information processing devices. Quantum materials have the potential to enable both new energy-efficient devices as well as unlock fundamentally new approaches to information processing. Much of this pote",system_result,2,,
+39,quantum information science,broad,Kaeli Ficco,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Brito Lab. Advised by Ilana Lauren Brito.,system_result,3,,
+40,quantum information science,broad,James Weaver,Materials Science and Engineering,Associate Professor,"Research Interests
+Weaver’s research primarily focuses on the following three areas:
+Multi-scale image and materials characterization
+Advanced manufacturing and 3D data visualization
+Biologically inspired materials, architecture, and design",random,,,
+41,developing better batteries for electric vehicles,application,R. B. van Dover,Materials Science and Engineering,"Walter S. Carpenter, Jr. Professor of Engineering","Research Interests
+UHF properties of magnetic thin films: Synthesis and characterization of novel optical materials (nonlinear materials, thin film gain media, etc.) * Characterization of nanometer-scale materials: superconductors, dielectrics, and magnetic materials * Electronic phase diagrams determined by induced surface charges rather than chemical doping * Composition-spread approach to parallelized synthesis/characterization of materials, including novel catalysts for direct-methanol fuel ",system_result,1,,
+42,developing better batteries for electric vehicles,application,Vibha Kalra,Chemical and Biomolecular Engineering,Fred H. Rhodes Professor of Chemical EngineeringKathy Dwyer Marble and Curt Marble Faculty Director at the Cornell Atkinson Center for Sustainability,"Research Interests
+In our group, we combine fundamental discoveries in material assembly, morphology and chemistry with electrochemistry and in-operando spectroscopy to develop efficient energy storage devices, particularly next generation batteries such as Li/Na/K-S, solid-state batteries, and anode-less battery designs. Our specific areas of interest include:
+Design of novel electrode materials and electrolyte additives to enhance the physical and chemical phenomena relevant for batteries.
+In-",system_result,2,,
+43,developing better batteries for electric vehicles,application,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,3,,
+44,developing better batteries for electric vehicles,application,Shiqi Li,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Yang Group. Advised by Rong Yang. Publications: Fluorine-Free Amphiphilic Copolymers for Broad-Spectrum Marine Biofouling Deterrence; Polymer Microarray with Tailored Morphologies through Condensed Droplet Polymerization for High-Resolution Optical Imaging Applications; Pathophysiology-Informed Design of Negatively Charged Liposomes for Enhanced Antibiotic Delivery across the Intact Tympanic Membrane in Acute Otitis Media Treatment;,random,,,
+45,creating biocompatible implants,application,Lawrence Bonassar,Materials Science and Engineering,"Daljit S. and Elaine Sarkaria Professor in Biomedical EngineeringProfessor, Mechanical and Aerospace Engineering","Research Interests
+Biomechanics and Mechanobiology
+Biomedical Engineering
+Polymers and Soft Matter
+Rapid Prototyping
+Mechanics of Biological Materials
+Bioengineering
+Molecular and Cellular Engineering
+Tissue Engineering and Biomaterials
+Molecular Biotechnology
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials
+Service Interests
+Board of Directors, International Society for Biofabrication
+Board of Director, Orthopaedic Research Society Conference
+Chairman, Bioprin",system_result,1,,
+46,creating biocompatible implants,application,Yadong Wang,Chemical and Biomolecular Engineering,McAdam Family Foundation Professor of Heart Assist Technology,"Research Interests
+Biomedical Engineering
+Bioengineering
+Advanced Materials
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials",system_result,2,,
+47,creating biocompatible implants,application,David A. Putnam,Chemical and Biomolecular Engineering,Samuel B. Eckert Professor in Engineering,"Research Interests
+Drug Delivery and Nanomedicine
+Polymers and Soft Matter
+Mechanics of Biological Materials
+Biomedical Engineering
+Bioengineering
+Tissue Engineering and Biomaterials
+Biomolecular Engineering",system_result,3,,
+48,creating biocompatible implants,application,Henrique Reis Moura,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering.,random,,,
+49,improving solar cell efficiency,application,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,1,,
+50,improving solar cell efficiency,application,Tobias Hanrath,Materials Science and Engineering,Croll Professor in Engineering,"Research Interests
+There is a tremendous opportunity space for nanostructured materials to play a key role in next generation energy technologies. Our research efforts focus on the fundamental study of optoelectronic properties of semiconductor nanocrystals; this work is inspired by the potential application of these materials in solar energy conversion and energy storage devices. The semiconductor nanocrystals used in our work provide a diverse set of building blocks whose electronic and optica",system_result,2,,
+51,improving solar cell efficiency,application,Hari Nair,Materials Science and Engineering,Assistant Professor,"Research Interests
+Novel materials have the potential of precipitating revolutionary rather than evolutionary changes in wide ranging fields. My vision is to explore the properties of novel oxide materials in epitaxial thin film form for wide ranging applications from power electronics to optical metamaterials. Understanding and tuning the fundamental properties of these versatile oxides using a combination of epitaxial strain, dimensionality and heterostructures will be key to developing the ne",system_result,3,,
+52,improving solar cell efficiency,application,Joe Rogan,Chemical and Biomolecular Engineering,Director of Development,"View all 			Staff 		
+Joe Rogan
+Director of Development
+LocationCarpenter Hall, Room 258
+Phone607-254-6702
+Emailjfr229@cornell.edu",random,,,
+53,designing drug delivery nanoparticles,application,Mohammed Suliman M. Alshammasi,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Escobedo Lab. Advised by Fernando Escobedo.,system_result,1,,
+54,designing drug delivery nanoparticles,application,Dharani Prasad Vadlamudi,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Tester Group. Advised by Jefferson W. Tester.,system_result,2,,
+55,designing drug delivery nanoparticles,application,Aditi Seshadri,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Escobedo Lab. Advised by Fernando Escobedo.,system_result,3,,
+56,designing drug delivery nanoparticles,application,Michael Thompson,Materials Science and Engineering,Director of Undergraduate StudiesDwight C. Baum Professor of Engineering,"Research Interests
+Professor Thompson’s group is focused on the use of transient thermal processing on time frames from nanosecond to sub-seconds as a method for characterization and modification of material properties, focusing particularly on semiconductor materials and applications. These timeframes are achieved primarily through the use of pulsed and CW laser sources to heat materials to temperatures far beyond conventional limits, and cool within comparable timeframes by thermal quench to s",random,,,
+57,building soft robots,application,Robert F. Shepherd,Materials Science and Engineering,Director of Graduate Studies for Mechanical EngineeringJohn F. Carr Professor of Mechanical Engineering,"Research Interests
+Dr. Shepherd is interested in developing disruptive manufacturing technologies (e.g., 3D printing, replica molding, microfluidics, etc.) and functional materials to enable new devices and user experiences. He is particularly interested in simultaneously increasing the speed, dimensionality, resolution, and materials capability of free-form fabrication techniques, and developing soft actuators that mimic biological functions, but not necessarily their mechanisms: These interest",system_result,1,,
+58,building soft robots,application,Jingjie Yeo,Materials Science and Engineering,Assistant Professor,"Research Interests
+Jingjie Yeo’s research focuses on interdisciplinary studies of material and biological phenomena by advancing multiscale, multi-physics computational methods and simulations. He aims to characterize and predict the mechanical, chemical, optical, and electrical structure-function relationships of polymers, bio-polymers, and bio-inspired materials of various morphologies. With additional techniques from machine learning and computational biology, he investigates phenomena relate",system_result,2,,
+59,building soft robots,application,Eric Dufresne,Materials Science and Engineering,Professor,"Research Interests
+The Laboratory of Soft and Living Materials ↗ focuses on biological and biologically-inspired materials.  Our research is focused on quantitative physical experiments but integrates elements of cell biology, biochemistry, and theory as needed.
+Advanced Materials
+Biomedical Engineering
+Biomechanics and Mechanobiology
+Colloids and Interfacial Science
+Materials Synthesis and Processing
+Mechanics of Biological Materials
+Molecular and Cellular Engineering
+Polymers and Soft Matter",system_result,3,,
+60,building soft robots,application,Erik John Bidstrup,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of DeLisa Group. Advised by Matthew DeLisa.,random,,,
+61,machine learning for materials discovery,interdisciplinary,James Weaver,Materials Science and Engineering,Associate Professor,"Research Interests
+Weaver’s research primarily focuses on the following three areas:
+Multi-scale image and materials characterization
+Advanced manufacturing and 3D data visualization
+Biologically inspired materials, architecture, and design",system_result,1,,
+62,machine learning for materials discovery,interdisciplinary,Dzenana Javor,Materials Science and Engineering,Lead Finance,"View all 			Staff 		
+Dzenana Javor
+Lead Finance
+LocationBard Hall, Room 210D
+Phone607-255-9160
+Emaildj237@cornell.edu",system_result,2,,
+63,machine learning for materials discovery,interdisciplinary,Michele Conrad,Materials Science and Engineering,Undergraduate Student Services Coordinator,"View all 			Staff 		
+Michele Conrad
+Undergraduate Student Services Coordinator
+Department of Materials Science and Engineering
+LocationBard Hall, Room 210A
+Phone607-255-9159
+Emailmmc2@cornell.edu",system_result,3,,
+64,machine learning for materials discovery,interdisciplinary,Alexandra Werth,Chemical and Biomolecular Engineering,Assistant Professor,"Research Interests
+Dr. Werth’s research is dedicated to advancing evidence-based teaching practices and tools to enhance access to and efficacy of authentic learning environments. She focuses particularly on disciplinary-based research within engineering contexts, with a specific interest in biomedical engineering, although her work often transcends disciplinary boundaries. Her work delves into three interconnected components of the educational system:
+Values: Through the BEEAR research group, D",random,,,
+65,microfluidics for biological assays,interdisciplinary,Claudia Fischbach-Teschl,Chemical and Biomolecular Engineering,James M. and Marsha McCormick Family Director of the Meinig School of Biomedical EngineeringStanley Bryer 1946 Professor of Biomedical Engineering,"Research Interests
+Biotechnology
+Molecular and Cellular Engineering
+Polymers and Soft Matter
+Nanobio Applications
+Nanotechnology
+Mechanics of Biological Materials
+Biomedical Engineering
+Bioengineering
+Microfluidics
+Biomechanics and Mechanobiology
+Tissue Engineering and Biomaterials
+Microfluidics and Microsystems
+Multiphase and Granular Flows",system_result,1,,
+66,microfluidics for biological assays,interdisciplinary,Susan Daniel,Chemical and Biomolecular Engineering,William C. Hooey Director of the R.F. Smith School of Chemical and Biomolecular EngineeringLisa L. Walker 1986 Distinguished Professor of Chemical and Biomolecular Engineering,"Research Interests
+Colloids and Interfacial Science
+Molecular Biotechnology
+Fluid Dynamics and Rheology
+Polymers and Soft Matter
+Nanobio Applications
+Biomedical Engineering
+Bioengineering
+Biomedical Imaging and Instrumentation
+Microfluidics
+Molecular and Cellular Engineering
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials
+Biomolecular Engineering
+COVID-19 Related Research",system_result,2,,
+67,microfluidics for biological assays,interdisciplinary,Brian Kirby,Chemical and Biomolecular Engineering,Associate Director of Undergraduate AffairsMeinig Family Professor of Engineering,"Research Interests
+Multiphase and Granular Flows
+Biomedical Imaging and Instrumentation
+Microfluidics
+Biomedical Engineering
+Bioengineering
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials
+Molecular and Cellular Engineering
+Micro Nano Systems
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials",system_result,3,,
+68,microfluidics for biological assays,interdisciplinary,Lara A. Estroff,Materials Science and Engineering,Chair of the Department of Materials Science and EngineeringHerbert Fisk Johnson Professor of Industrial Chemistry,"Research Interests
+The diversity of biomineralized structures, ranging from magnetic nanoparticles in bacteria to large, single-crystalline sea urchin spines to the hierarchical composite structure of bone, has inspired the study of structure-function relationships within naturally occurring materials, and the development of synthetic routes to organic-inorganic composites with complex morphologies and desirable materials properties. Central to the study of biomineralization, and still poorly un",random,,,
+69,biomechanics of soft tissues,interdisciplinary,Lawrence Bonassar,Materials Science and Engineering,"Daljit S. and Elaine Sarkaria Professor in Biomedical EngineeringProfessor, Mechanical and Aerospace Engineering","Research Interests
+Biomechanics and Mechanobiology
+Biomedical Engineering
+Polymers and Soft Matter
+Rapid Prototyping
+Mechanics of Biological Materials
+Bioengineering
+Molecular and Cellular Engineering
+Tissue Engineering and Biomaterials
+Molecular Biotechnology
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials
+Service Interests
+Board of Directors, International Society for Biofabrication
+Board of Director, Orthopaedic Research Society Conference
+Chairman, Bioprin",system_result,1,,
+70,biomechanics of soft tissues,interdisciplinary,Eric Dufresne,Materials Science and Engineering,Professor,"Research Interests
+The Laboratory of Soft and Living Materials ↗ focuses on biological and biologically-inspired materials.  Our research is focused on quantitative physical experiments but integrates elements of cell biology, biochemistry, and theory as needed.
+Advanced Materials
+Biomedical Engineering
+Biomechanics and Mechanobiology
+Colloids and Interfacial Science
+Materials Synthesis and Processing
+Mechanics of Biological Materials
+Molecular and Cellular Engineering
+Polymers and Soft Matter",system_result,2,,
+71,biomechanics of soft tissues,interdisciplinary,David A. Putnam,Chemical and Biomolecular Engineering,Samuel B. Eckert Professor in Engineering,"Research Interests
+Drug Delivery and Nanomedicine
+Polymers and Soft Matter
+Mechanics of Biological Materials
+Biomedical Engineering
+Bioengineering
+Tissue Engineering and Biomaterials
+Biomolecular Engineering",system_result,3,,
+72,biomechanics of soft tissues,interdisciplinary,Lara A. Estroff,Materials Science and Engineering,Chair of the Department of Materials Science and EngineeringHerbert Fisk Johnson Professor of Industrial Chemistry,"Research Interests
+The diversity of biomineralized structures, ranging from magnetic nanoparticles in bacteria to large, single-crystalline sea urchin spines to the hierarchical composite structure of bone, has inspired the study of structure-function relationships within naturally occurring materials, and the development of synthetic routes to organic-inorganic composites with complex morphologies and desirable materials properties. Central to the study of biomineralization, and still poorly un",random,,,
+73,electrochemistry for CO2 reduction,interdisciplinary,Vibha Kalra,Chemical and Biomolecular Engineering,Fred H. Rhodes Professor of Chemical EngineeringKathy Dwyer Marble and Curt Marble Faculty Director at the Cornell Atkinson Center for Sustainability,"Research Interests
+In our group, we combine fundamental discoveries in material assembly, morphology and chemistry with electrochemistry and in-operando spectroscopy to develop efficient energy storage devices, particularly next generation batteries such as Li/Na/K-S, solid-state batteries, and anode-less battery designs. Our specific areas of interest include:
+Design of novel electrode materials and electrolyte additives to enhance the physical and chemical phenomena relevant for batteries.
+In-",system_result,1,,
+74,electrochemistry for CO2 reduction,interdisciplinary,Jin Suntivich,Materials Science and Engineering,Associate Professor,"Research Interests
+Our core interest is in materials sustainability. Current efforts include materials for energy storage and conversion technologies, mitigation strategies for materials corrosions in harsh environments, in-situ tools for probing interface dynamics, and novel methods for separation applications.
+Advanced Materials
+Energy Systems
+Energy and the Environment
+Surface Science
+Sensors and Actuators
+Nanotechnology",system_result,2,,
+75,electrochemistry for CO2 reduction,interdisciplinary,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,3,,
+76,electrochemistry for CO2 reduction,interdisciplinary,R. B. van Dover,Materials Science and Engineering,"Walter S. Carpenter, Jr. Professor of Engineering","Research Interests
+UHF properties of magnetic thin films: Synthesis and characterization of novel optical materials (nonlinear materials, thin film gain media, etc.) * Characterization of nanometer-scale materials: superconductors, dielectrics, and magnetic materials * Electronic phase diagrams determined by induced surface charges rather than chemical doping * Composition-spread approach to parallelized synthesis/characterization of materials, including novel catalysts for direct-methanol fuel ",random,,,
+77,3D printing of functional materials,interdisciplinary,Robert F. Shepherd,Materials Science and Engineering,Director of Graduate Studies for Mechanical EngineeringJohn F. Carr Professor of Mechanical Engineering,"Research Interests
+Dr. Shepherd is interested in developing disruptive manufacturing technologies (e.g., 3D printing, replica molding, microfluidics, etc.) and functional materials to enable new devices and user experiences. He is particularly interested in simultaneously increasing the speed, dimensionality, resolution, and materials capability of free-form fabrication techniques, and developing soft actuators that mimic biological functions, but not necessarily their mechanisms: These interest",system_result,1,,
+78,3D printing of functional materials,interdisciplinary,James Weaver,Materials Science and Engineering,Associate Professor,"Research Interests
+Weaver’s research primarily focuses on the following three areas:
+Multi-scale image and materials characterization
+Advanced manufacturing and 3D data visualization
+Biologically inspired materials, architecture, and design",system_result,2,,
+79,3D printing of functional materials,interdisciplinary,Lawrence Bonassar,Materials Science and Engineering,"Daljit S. and Elaine Sarkaria Professor in Biomedical EngineeringProfessor, Mechanical and Aerospace Engineering","Research Interests
+Biomechanics and Mechanobiology
+Biomedical Engineering
+Polymers and Soft Matter
+Rapid Prototyping
+Mechanics of Biological Materials
+Bioengineering
+Molecular and Cellular Engineering
+Tissue Engineering and Biomaterials
+Molecular Biotechnology
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials
+Service Interests
+Board of Directors, International Society for Biofabrication
+Board of Director, Orthopaedic Research Society Conference
+Chairman, Bioprin",system_result,3,,
+80,3D printing of functional materials,interdisciplinary,Jingjie Yeo,Materials Science and Engineering,Assistant Professor,"Research Interests
+Jingjie Yeo’s research focuses on interdisciplinary studies of material and biological phenomena by advancing multiscale, multi-physics computational methods and simulations. He aims to characterize and predict the mechanical, chemical, optical, and electrical structure-function relationships of polymers, bio-polymers, and bio-inspired materials of various morphologies. With additional techniques from machine learning and computational biology, he investigates phenomena relate",random,,,
+81,X-ray diffraction characterization,technique,Dzenana Javor,Materials Science and Engineering,Lead Finance,"View all 			Staff 		
+Dzenana Javor
+Lead Finance
+LocationBard Hall, Room 210D
+Phone607-255-9160
+Emaildj237@cornell.edu",system_result,1,,
+82,X-ray diffraction characterization,technique,Atieh Moridi,Materials Science and Engineering,Associate ProfessorAref and Manon Lahham Faculty Fellow,"Research Interests
+Moridi’s research interests lie in the areas of advanced materials and manufacturing. She exploits the intrinsic properties (i.e., rapid solidification, melt pool dynamic, intrinsic heat treatment) as well as flexibility of additive manufacturing (i.e., local or site specific metallurgy and incorporation of nanomaterials) to synthesize novel high performance materials. She studies processing, microstructure, and mechanical response of advanced materials using in-situ x-ray and",system_result,2,,
+83,X-ray diffraction characterization,technique,Kristal Harry,Materials Science and Engineering,Teaching Support Specialist,"View all 			Staff 		
+Kristal Harry
+Teaching Support Specialist
+Department of Materials Science and Engineering
+LocationBard Hall, Room 258
+Phone310-594-2502
+Emailknh46@cornell.edu",system_result,3,,
+84,X-ray diffraction characterization,technique,Shuwen Yue,Materials Science and Engineering,Assistant Professor,"Research Interests
+We study how the chemistry of individual molecules – their structure, charges, and interactions – gives rise to the large-scale behaviors observed in liquids, mixtures, and materials. By understanding and controlling how molecules work together in the condensed phase, we can design systems with tailored properties, such as how fast ions move through a battery or how efficiently a reaction occurs on a catalyst.
+We use physics-based and data-driven approaches to guide the bottom",random,,,
+85,electron microscopy at atomic resolution,technique,David Anthony Muller,Materials Science and Engineering,"Samuel B. Eckert Professor of EngineeringCo-director, Cornell Center for Materials Research (CCMR)","Research Interests
+My group’s research at Cornell University is focused on understanding the behavior of materials and devices at the atomic scale, with an emphasis on renewable energy applications. Using some of the most powerful electron microscopes in the world, placed in specially-designed and environmentally isolated rooms, we are able to explore the chemistry, electronic structure and bonding inside objects as diverse as transistors, turbine blades, two-dimensional superconductors, fuel ce",system_result,1,,
+86,electron microscopy at atomic resolution,technique,Joel Donald Brock,Materials Science and Engineering,Director of Master of Science and Master of Engineering ProgramsGiven Foundation Professor of Engineering Director of CHESS,"Research Interests
+For over 100 years, our fundamental understanding of the structure of materials on atomic length scales has been advanced by direct structural measurements using x-rays. Modern synchrotrons provide over 8 orders of magnitude higher fluxes than laboratory based sources. This flux enables us to utilize higher resolution: higher angular resolution for diffraction, higher energy resolution for spectroscopies, higher time resolution for dynamics, and higher spatial resolution for i",system_result,2,,
+87,electron microscopy at atomic resolution,technique,James R. Engstrom,Materials Science and Engineering,Professor,"Research Interests
+Gas-surface dynamics via molecular beam scattering. Inorganic-organic interfaces and molecular-based electronics. Atomic layer deposition. In-situ monitoring and control of thin film processes, including X-ray synchrotron radiation, X-ray photoelectron spectroscopy and low energy ion scattering spectrometry.
+Advanced Materials Processing
+Advanced Materials
+Polymers and Soft Matter
+Energy Systems
+Energy and the Environment
+Sustainable Energy Systems
+Microfluidics and Microsyste",system_result,3,,
+88,electron microscopy at atomic resolution,technique,Polly M. Marion,Chemical and Biomolecular Engineering,Administrative Assistant V,"View all 			Staff 		
+Polly M. Marion
+Administrative Assistant V
+R.F. Smith School of Chemical and Biomolecular Engineering
+LocationOlin Hall, Room 116
+Phone607-254-4785
+Emailpmm4@cornell.edu",random,,,
+89,nanoindentation mechanical testing,technique,Matthew Peter Miller,Materials Science and Engineering,Willis H. Carrier Professor in Engineering,"Research Interests
+Miller’s research focuses on the creation of tools that enable the design and selection of structural materials. Much of Miller’s work is at the experiment/model interface, where he and his students have designed experiments to probe material state and behaviors on multiple size scales. An emphasis is the use of synchrotron x-rays and in-situ mechanical loading to understand the crystal level mechanical state of alloys during deformation – including monotonic loading and fatig",system_result,1,,
+90,nanoindentation mechanical testing,technique,Robert F. Shepherd,Materials Science and Engineering,Director of Graduate Studies for Mechanical EngineeringJohn F. Carr Professor of Mechanical Engineering,"Research Interests
+Dr. Shepherd is interested in developing disruptive manufacturing technologies (e.g., 3D printing, replica molding, microfluidics, etc.) and functional materials to enable new devices and user experiences. He is particularly interested in simultaneously increasing the speed, dimensionality, resolution, and materials capability of free-form fabrication techniques, and developing soft actuators that mimic biological functions, but not necessarily their mechanisms: These interest",system_result,2,,
+91,nanoindentation mechanical testing,technique,Mostafa Hassani,Materials Science and Engineering,Assistant Professor,"Research Interests
+Mostafa’s research interests lie at the intersection of solid mechanics, structural materials, and additive manufacturing. He uses in-situ approaches to understand deformation and failure of structural materials and their underlying physical mechanisms under extreme loading conditions such as under impact, at high temperatures, at small scales, etc. He also leverages extreme conditions of deformation in solid-state to enable novel additive processes for metals, alloys, and com",system_result,3,,
+92,nanoindentation mechanical testing,technique,Arvil Dasgupta,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering.,random,,,
+93,single molecule fluorescence microscopy,technique,Warren R. Zipfel,Chemical and Biomolecular Engineering,Associate Professor,"Research Interests
+Biomedical Imaging and Instrumentation
+Bioengineering
+Nanobio Applications
+Biomedical Engineering
+Image Analysis
+Biophysics",system_result,1,,
+94,single molecule fluorescence microscopy,technique,Matt Ferguson,Materials Science and Engineering,Assistant Professor,"Research Interests
+Research in our group revolves around developing new approaches for identifying and controlling the electronic properties of quantum materials. These materials exhibit behavior which is unavailable in the semiconductors, metals and insulators which make up the majority of our information processing devices. Quantum materials have the potential to enable both new energy-efficient devices as well as unlock fundamentally new approaches to information processing. Much of this pote",system_result,2,,
+95,single molecule fluorescence microscopy,technique,James R. Engstrom,Materials Science and Engineering,Professor,"Research Interests
+Gas-surface dynamics via molecular beam scattering. Inorganic-organic interfaces and molecular-based electronics. Atomic layer deposition. In-situ monitoring and control of thin film processes, including X-ray synchrotron radiation, X-ray photoelectron spectroscopy and low energy ion scattering spectrometry.
+Advanced Materials Processing
+Advanced Materials
+Polymers and Soft Matter
+Energy Systems
+Energy and the Environment
+Sustainable Energy Systems
+Microfluidics and Microsyste",system_result,3,,
+96,single molecule fluorescence microscopy,technique,Eric Dufresne,Materials Science and Engineering,Professor,"Research Interests
+The Laboratory of Soft and Living Materials ↗ focuses on biological and biologically-inspired materials.  Our research is focused on quantitative physical experiments but integrates elements of cell biology, biochemistry, and theory as needed.
+Advanced Materials
+Biomedical Engineering
+Biomechanics and Mechanobiology
+Colloids and Interfacial Science
+Materials Synthesis and Processing
+Mechanics of Biological Materials
+Molecular and Cellular Engineering
+Polymers and Soft Matter",random,,,
+97,density functional theory calculations,technique,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,1,,
+98,density functional theory calculations,technique,Jillian Goldfarb,Chemical and Biomolecular Engineering,Associate ProfessorDuffield Engineering Dean’s FellowDirector of Undergraduate Studies for Archeology,"Research Interests
+Energy and the Environment
+Combustion
+Energy Systems
+Sustainable Energy Systems
+Energy, Mineral, and Water Resources
+Environmental Processes
+Heat and Mass Transfer
+Materials Design
+Polymers and Soft Matter
+Colloids and Interfacial Science
+COVID-19 Related Research
+Engineering",system_result,2,,
+99,density functional theory calculations,technique,Shuwen Yue,Materials Science and Engineering,Assistant Professor,"Research Interests
+We study how the chemistry of individual molecules – their structure, charges, and interactions – gives rise to the large-scale behaviors observed in liquids, mixtures, and materials. By understanding and controlling how molecules work together in the condensed phase, we can design systems with tailored properties, such as how fast ions move through a battery or how efficiently a reaction occurs on a catalyst.
+We use physics-based and data-driven approaches to guide the bottom",system_result,3,,
+100,density functional theory calculations,technique,George Alvarado Lopez,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Escobedo Lab. Advised by Fernando Escobedo.,random,,,
+101,who works on making stronger lightweight metals,natural,Jennifer Gabriel,Materials Science and Engineering,Major Gift Officer,"View all 			Staff 		
+Jennifer Gabriel
+Major Gift Officer
+LocationCarpenter Hall, Room 253 
+Emailjgabriel@cornell.edu",system_result,1,,
+102,who works on making stronger lightweight metals,natural,Kristal Harry,Materials Science and Engineering,Teaching Support Specialist,"View all 			Staff 		
+Kristal Harry
+Teaching Support Specialist
+Department of Materials Science and Engineering
+LocationBard Hall, Room 258
+Phone310-594-2502
+Emailknh46@cornell.edu",system_result,2,,
+103,who works on making stronger lightweight metals,natural,Katie Jacoby,Materials Science and Engineering,Director of Administration,"View all 			Staff 		
+Katie Jacoby
+Director of Administration
+Department of Materials Science and Engineering
+R.F. Smith School of Chemical and Biomolecular Engineering
+LocationBard Hall, 210F
+Phone607-255-9158
+Emailkatie.jacoby@cornell.edu
+Biography
+Katie Jacoby joined the Department of Materials Science and Engineering after having served eight years as the executive director of administration and finance for the Cornell Laboratory of Accelerator-based Sciences and Education and the Cornell Hig",system_result,3,,
+104,who works on making stronger lightweight metals,natural,Matthew Peter Miller,Materials Science and Engineering,Willis H. Carrier Professor in Engineering,"Research Interests
+Miller’s research focuses on the creation of tools that enable the design and selection of structural materials. Much of Miller’s work is at the experiment/model interface, where he and his students have designed experiments to probe material state and behaviors on multiple size scales. An emphasis is the use of synchrotron x-rays and in-situ mechanical loading to understand the crystal level mechanical state of alloys during deformation – including monotonic loading and fatig",random,,,
+105,looking for expertise in protein folding,natural,Matthew DeLisa,Chemical and Biomolecular Engineering,Director of Postdoctoral StudiesWilliam L. Lewis Professor,"Research Interests
+It has been suggested that life depends on 200-300 core biological processes, the vast majority of which are accomplished by large heterogeneous protein assemblies commonly referred to as machines. Unfortunately, the functional details of many cellular machines have yet to be described for lack of effective tools. In turn, this has hindered our ability to harness nature’s machines for tackling problems that cannot be solved with natural systems. The DeLisa laboratory is workin",system_result,1,,
+106,looking for expertise in protein folding,natural,Ilana Lauren Brito,Chemical and Biomolecular Engineering,Associate ProfessorMong Family Sesquicentennial Faculty Fellow in Biomedical Engineering,"Research Interests
+Bioengineering
+Biomedical Engineering
+Molecular and Cellular Engineering
+Systems and Synthetic Biology
+Drug Delivery and Nanomedicine
+Biotechnology
+Molecular Biotechnology
+Scientific Computing
+Computational Science and Engineering",system_result,2,,
+107,looking for expertise in protein folding,natural,Spencer Sabatino,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of STRIDE Research Group. Advised by Allison Godwin.,system_result,3,,
+108,looking for expertise in protein folding,natural,Ayobami Ogundiran,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering.,random,,,
+109,need help with rheology measurements,natural,Sarah Hormozi,Chemical and Biomolecular Engineering,Associate Professor,"Research Interests
+Sarah Hormozi has a broad research interest in fluid mechanics, rheology, and microstructure of complex slurries; i.e., suspensions of non-Brownian particles in complex fluids. The flows of complex slurries are ubiquitous in many natural phenomena (e.g., landslides, mudslides, and submarine avalanches) and industrial processes (e.g., converting biomass into fuel, chemical mechanical polishing in semiconductors, body armor fabrics, concrete industries, additive manufacturing, f",system_result,1,,
+110,need help with rheology measurements,natural,Donald L. Koch,Chemical and Biomolecular Engineering,Professor,"Research Interests
+Rheology and average transport processes in particle suspensions, porous media, micro- and nano-structured materials. Particle-filled polymeric materials. Solvent-free nanoparticle fluids. Aggregation processes in colloids and aerosols. Non-continuum gas flows and reactions. Collective behavior of swimming micro-organisms. Convective heat and mass transfer in particulate systems. Two-way coupling in particle-laden turbulent gas flows. Geologic sequestration of carbon dioxide. ",system_result,2,,
+111,need help with rheology measurements,natural,Sol Gruner,Materials Science and Engineering,John L. Wetherill Emeritus Professor of Physics,"Sol Gruner
+John L. Wetherill Emeritus Professor of Physics 
+smg26@cornell.edu
+607/255-3441
+
+ 				Education 			
+S.B., 1972, Massachusetts Institute of Technology. Ph.D. 1977, Princeton University. Research Associate, Princeton University, 1977. Assistant Professor, Physics, Princeton University, 1978-85. Associate Professor, Physics, Princeton University, 1985-91. Professor, Physics, Princeton University, 1991-97. Professor, Physics, Cornell University, 1997-present. Director, Cornell High Energy",system_result,3,,
+112,need help with rheology measurements,natural,Pulkit Jain,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of The Hormozi Laboratory. Advised by Sarah Hormozi.,random,,,
+113,research on preventing corrosion,natural,Alton Harold Clark,Materials Science and Engineering,Adjunct ProfessorTemp Serv Tech,"View all 			Faculty 		
+Alton Harold Clark
+Adjunct Professor
+Temp Serv Tech
+Department of Materials Science and Engineering
+LocationBard Hall, Room 210
+Emailahc4@cornell.edu",system_result,1,,
+114,research on preventing corrosion,natural,Jin Suntivich,Materials Science and Engineering,Associate Professor,"Research Interests
+Our core interest is in materials sustainability. Current efforts include materials for energy storage and conversion technologies, mitigation strategies for materials corrosions in harsh environments, in-situ tools for probing interface dynamics, and novel methods for separation applications.
+Advanced Materials
+Energy Systems
+Energy and the Environment
+Surface Science
+Sensors and Actuators
+Nanotechnology",system_result,2,,
+115,research on preventing corrosion,natural,Jennifer Gabriel,Materials Science and Engineering,Major Gift Officer,"View all 			Staff 		
+Jennifer Gabriel
+Major Gift Officer
+LocationCarpenter Hall, Room 253 
+Emailjgabriel@cornell.edu",system_result,3,,
+116,research on preventing corrosion,natural,Sabarish Vadanakurussi Narayanan,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of The Hormozi Laboratory. Advised by Sarah Hormozi.,random,,,
+117,studying how cells respond to mechanical forces,natural,Eric Dufresne,Materials Science and Engineering,Professor,"Research Interests
+The Laboratory of Soft and Living Materials ↗ focuses on biological and biologically-inspired materials.  Our research is focused on quantitative physical experiments but integrates elements of cell biology, biochemistry, and theory as needed.
+Advanced Materials
+Biomedical Engineering
+Biomechanics and Mechanobiology
+Colloids and Interfacial Science
+Materials Synthesis and Processing
+Mechanics of Biological Materials
+Molecular and Cellular Engineering
+Polymers and Soft Matter",system_result,1,,
+118,studying how cells respond to mechanical forces,natural,Lawrence Bonassar,Materials Science and Engineering,"Daljit S. and Elaine Sarkaria Professor in Biomedical EngineeringProfessor, Mechanical and Aerospace Engineering","Research Interests
+Biomechanics and Mechanobiology
+Biomedical Engineering
+Polymers and Soft Matter
+Rapid Prototyping
+Mechanics of Biological Materials
+Bioengineering
+Molecular and Cellular Engineering
+Tissue Engineering and Biomaterials
+Molecular Biotechnology
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials
+Service Interests
+Board of Directors, International Society for Biofabrication
+Board of Director, Orthopaedic Research Society Conference
+Chairman, Bioprin",system_result,2,,
+119,studying how cells respond to mechanical forces,natural,Krystyn Van Vliet,Materials Science and Engineering,Vice President for Innovation and External Engagement StrategyProfessor,"Research Interests
+Biomechanics and Mechanobiology
+Drug Delivery and Nanomedicine
+In the News
+Three faculty receive indefinite tenure
+At its recent meetings, the Cornell University Board of Trustees elected the following professors to appointment with indefinite tenure, effective November 1, 2024: Krystyn J. Van Vliet, Professor, (BME, MSE), was elected Professor with indefinite tenure.  Qi Li, Assistant Professor…
+Van Vliet named a trailblazer in higher education
+Krystyn Van Vliet, vice preside",system_result,3,,
+120,studying how cells respond to mechanical forces,natural,Joe Rogan,Chemical and Biomolecular Engineering,Director of Development,"View all 			Staff 		
+Joe Rogan
+Director of Development
+LocationCarpenter Hall, Room 258
+Phone607-254-6702
+Emailjfr229@cornell.edu",random,,,
+121,semiconductor thin films and oxide electronics,verified,Darrell Schlom,Materials Science and Engineering,Tisch University Professor,"Research Interests
+The focus of my group’s research is investigating and perfecting the properties of oxide materials for electronic uses. To do this, we grow oxide thin films on single crystal substrates of closely related substances. The single crystal substrate provides a structural template for the thin films that we grow. The films follow this atomic template and are thus said to be epitaxial (inheriting their crystalline arrangement from the underlying substrate). Our focus on oxides is du",system_result,1,,
+122,semiconductor thin films and oxide electronics,verified,Dieter Ast,Materials Science and Engineering,Emeritus,"Research Interests
+Thin Film Electronics, Flat Panel Displays, Glass Substrates for Flat Panel Displays.",system_result,2,,
+123,semiconductor thin films and oxide electronics,verified,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,3,,
+124,semiconductor thin films and oxide electronics,verified,Yadong Wang,Chemical and Biomolecular Engineering,McAdam Family Foundation Professor of Heart Assist Technology,"Research Interests
+Biomedical Engineering
+Bioengineering
+Advanced Materials
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials",random,,,
+125,biomaterials for bone tissue engineering,verified,Yadong Wang,Chemical and Biomolecular Engineering,McAdam Family Foundation Professor of Heart Assist Technology,"Research Interests
+Biomedical Engineering
+Bioengineering
+Advanced Materials
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials",system_result,1,,
+126,biomaterials for bone tissue engineering,verified,Lawrence Bonassar,Materials Science and Engineering,"Daljit S. and Elaine Sarkaria Professor in Biomedical EngineeringProfessor, Mechanical and Aerospace Engineering","Research Interests
+Biomechanics and Mechanobiology
+Biomedical Engineering
+Polymers and Soft Matter
+Rapid Prototyping
+Mechanics of Biological Materials
+Bioengineering
+Molecular and Cellular Engineering
+Tissue Engineering and Biomaterials
+Molecular Biotechnology
+Materials Design
+Bioengineering and Healthcare
+Advanced Manufacturing and Materials
+Service Interests
+Board of Directors, International Society for Biofabrication
+Board of Director, Orthopaedic Research Society Conference
+Chairman, Bioprin",system_result,2,,
+127,biomaterials for bone tissue engineering,verified,David A. Putnam,Chemical and Biomolecular Engineering,Samuel B. Eckert Professor in Engineering,"Research Interests
+Drug Delivery and Nanomedicine
+Polymers and Soft Matter
+Mechanics of Biological Materials
+Biomedical Engineering
+Bioengineering
+Tissue Engineering and Biomaterials
+Biomolecular Engineering",system_result,3,,
+128,biomaterials for bone tissue engineering,verified,Kenji Yasuda,Materials Science and Engineering,Assistant Professor,"Research Interests
+Our research lies at the intersection of condensed matter physics, nanotechnology, and quantum science. We are driven by the goal of creating novel quantum nanomaterials and functionalities through artificial heterostructure synthesis based on 2D materials. We are keen on engineering nontrivial topology and Berry curvature, investigating symmetry-broken states including unconventional ferroelectricity and magnetism, and designing strongly-correlated electronic systems that man",random,,,
+129,nanoparticle synthesis and colloidal nanomaterials,verified,Richard Douglas Robinson,Materials Science and Engineering,Professor,"Research Interests
+Research Projects -Colloidal synthesis of nanoparticle metal oxides -Doping of nanoparticles to control electronic and thermal properties -Synthesis of new organometallic precursors for nanoparticles -In situ studies of particle nucleation and growth -Nanofabrication of monochromatic phonon source
+Much of our synthetic work revolves around colloidal synthesis of nanoparticles, relying on solvothermal, air-free techniques. We use a variety of organometallic precursors and surfa",system_result,1,,
+130,nanoparticle synthesis and colloidal nanomaterials,verified,Tobias Hanrath,Materials Science and Engineering,Croll Professor in Engineering,"Research Interests
+There is a tremendous opportunity space for nanostructured materials to play a key role in next generation energy technologies. Our research efforts focus on the fundamental study of optoelectronic properties of semiconductor nanocrystals; this work is inspired by the potential application of these materials in solar energy conversion and energy storage devices. The semiconductor nanocrystals used in our work provide a diverse set of building blocks whose electronic and optica",system_result,2,,
+131,nanoparticle synthesis and colloidal nanomaterials,verified,Alfred Center,Chemical and Biomolecular Engineering,Professor of PracticeEmeritus,"Research Interests
+Sustainable Energy Systems",system_result,3,,
+132,nanoparticle synthesis and colloidal nanomaterials,verified,Kent Emir Goklen,Chemical and Biomolecular Engineering,Adjunct Professor,"View all 			Faculty 		
+Kent Emir Goklen
+Adjunct Professor
+R.F. Smith School of Chemical and Biomolecular Engineering
+Phone610-270-4793
+Emailkeg65@cornell.edu",random,,,
+133,polymer materials design and block copolymer self-assembly,verified,Christopher A. Alabi,Materials Science and Engineering,"ProfessorDale R. Corson House Professor and Dean, Hans Bethe House","Research Interests
+Research in the Alabi lab involves the use of synthetic and analytical tools to enhance our understanding and facilitate the engineering of precise functional macromolecular materials and therapeutics. Our research goals involve the discovery and use of sequence-defined macromolecules to create sustainable stimuli-responsive materials, quantitate biological processes, develop efficient drug delivery bioconjugates and discover potent antimicrobial macromolecules. Our work range",system_result,1,,
+134,polymer materials design and block copolymer self-assembly,verified,Julia Dshemuchadse,Materials Science and Engineering,Assistant Professor,"Research Interests
+Advanced Materials
+Colloids and Interfacial Science
+Polymers and Soft Matter
+Materials Design",system_result,2,,
+135,polymer materials design and block copolymer self-assembly,verified,Christopher K. Ober,Materials Science and Engineering,Francis Norwood Bard Professor of Metallurgical Engineering,"Research Interests
+The ability to tailor the chemical structure of materials provides the ability to exquisitely control materials properties. Polymers, more than any other material, offer this possibility to fine-tune their thermal, optical and electrical properties through precise changes to molecular structure. Polymers are also the basis of the nanotechnology revolution, serving as photoresists used to create nanometer scale structures. Our research is therefore focused in three areas: (i) f",system_result,3,,
+136,polymer materials design and block copolymer self-assembly,verified,Jacob Belding,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Stroock Group. Advised by Abraham D. Stroock.,random,,,
+137,battery technology and electrochemical energy storage,verified,Vibha Kalra,Chemical and Biomolecular Engineering,Fred H. Rhodes Professor of Chemical EngineeringKathy Dwyer Marble and Curt Marble Faculty Director at the Cornell Atkinson Center for Sustainability,"Research Interests
+In our group, we combine fundamental discoveries in material assembly, morphology and chemistry with electrochemistry and in-operando spectroscopy to develop efficient energy storage devices, particularly next generation batteries such as Li/Na/K-S, solid-state batteries, and anode-less battery designs. Our specific areas of interest include:
+Design of novel electrode materials and electrolyte additives to enhance the physical and chemical phenomena relevant for batteries.
+In-",system_result,1,,
+138,battery technology and electrochemical energy storage,verified,Fengqi You,Chemical and Biomolecular Engineering,"Roxanne E. and Michael J. Zak Professor in Energy Systems EngineeringChair of Ph.D. Studies, Systems Engineering","Research Interests
+You’s is an interdisciplinary systems engineering and artificial intelligence research group that focuses on the development of advanced computational models, optimization algorithms, statistical machine learning methods, and multi-scale systems analysis tools for smart manufacturing, digital agriculture, data analytics, energy systems, and sustainability. We seek to provide a balance between theory, computation and real-world applications through our synergistic research that",system_result,2,,
+139,battery technology and electrochemical energy storage,verified,Jin Suntivich,Materials Science and Engineering,Associate Professor,"Research Interests
+Our core interest is in materials sustainability. Current efforts include materials for energy storage and conversion technologies, mitigation strategies for materials corrosions in harsh environments, in-situ tools for probing interface dynamics, and novel methods for separation applications.
+Advanced Materials
+Energy Systems
+Energy and the Environment
+Surface Science
+Sensors and Actuators
+Nanotechnology",system_result,3,,
+140,battery technology and electrochemical energy storage,verified,Ashley Bohn,Materials Science and Engineering,Communications Coordinator,"View all 			Staff 		
+Ashley Bohn
+Communications Coordinator
+LocationWard Hall, Room 118
+Emailashleybohn@cornell.edu
+WebsiteLinkedin ↗
+Biography
+Ashley Bohn is a communications coordinator who works with Electrical and Computer Engineering, Materials Science and Engineering, and Civil and Environmental Engineering. Bohn is a liaison with the centralized engineering communications team to publicize faculty research and academic excellence, amplifying stories to prospective students and their famil",random,,,
+141,topological materials and quantum computing applications,verified,Judy Cha,Materials Science and Engineering,Rick and Betty Tsai Ph.D. 1981 Professor in Materials Science and EngineeringLester B. Knight Director of the Cornell NanoScale Science and Technology Facility,"Research Interests
+My group focuses on studying novel electronic properties and phase transformations of nanoscale materials for device and energy applications. We have three research thrusts: A) nanowires of topological materials for potential quantum computing and low-resistance interconnects, B) two-dimensional (2D) materials for energy and electronic applications, and C) nanoscale effects on the phase transitions of our topological and 2D nanomaterials. My group’s tool box includes 1) variou",system_result,1,,
+142,topological materials and quantum computing applications,verified,Kenji Yasuda,Materials Science and Engineering,Assistant Professor,"Research Interests
+Our research lies at the intersection of condensed matter physics, nanotechnology, and quantum science. We are driven by the goal of creating novel quantum nanomaterials and functionalities through artificial heterostructure synthesis based on 2D materials. We are keen on engineering nontrivial topology and Berry curvature, investigating symmetry-broken states including unconventional ferroelectricity and magnetism, and designing strongly-correlated electronic systems that man",system_result,2,,
+143,topological materials and quantum computing applications,verified,Gregory David Fuchs,Materials Science and Engineering,James R. Meehl Professor,"Research Interests
+The Fuchs Group focuses on quantum informa­tion science and spintronics. We study and manipulate spin and optical degrees of freedom in solid-state materials. Although we are primarily a condensed matter physics research group, we draw inspiration from many fields including atomic physics, materials science, and electrical engineering.
+We are interested in hybrid quantum systems, in which disparate degrees of freedom interact coherently. Such systems can form the basis of futu",system_result,3,,
+144,topological materials and quantum computing applications,verified,Shefford P. Baker,Materials Science and Engineering,Associate Professor,"Research Interests
+Baker’s research focuses on the unique mechanical properties of materials having microstructural or dimensional length scales in the nanometer regime. Work in the group can be divided into two broad areas.
+Thin Films and Nanopatterned Structures are the basic building blocks of micro- and nano-fabricated devices, but may have mechanical properties that are very different from those of the same materials in bulk form. We want to understand (and utilize) these unique properties.",random,,,
+145,additive manufacturing and 3D printing of materials,verified,Robert F. Shepherd,Materials Science and Engineering,Director of Graduate Studies for Mechanical EngineeringJohn F. Carr Professor of Mechanical Engineering,"Research Interests
+Dr. Shepherd is interested in developing disruptive manufacturing technologies (e.g., 3D printing, replica molding, microfluidics, etc.) and functional materials to enable new devices and user experiences. He is particularly interested in simultaneously increasing the speed, dimensionality, resolution, and materials capability of free-form fabrication techniques, and developing soft actuators that mimic biological functions, but not necessarily their mechanisms: These interest",system_result,1,,
+146,additive manufacturing and 3D printing of materials,verified,Michele Conrad,Materials Science and Engineering,Undergraduate Student Services Coordinator,"View all 			Staff 		
+Michele Conrad
+Undergraduate Student Services Coordinator
+Department of Materials Science and Engineering
+LocationBard Hall, Room 210A
+Phone607-255-9159
+Emailmmc2@cornell.edu",system_result,2,,
+147,additive manufacturing and 3D printing of materials,verified,James Weaver,Materials Science and Engineering,Associate Professor,"Research Interests
+Weaver’s research primarily focuses on the following three areas:
+Multi-scale image and materials characterization
+Advanced manufacturing and 3D data visualization
+Biologically inspired materials, architecture, and design",system_result,3,,
+148,additive manufacturing and 3D printing of materials,verified,Harry Shu,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Yang Group. Advised by Rong Yang. Publications: Fluorine-Free Amphiphilic Copolymers for Broad-Spectrum Marine Biofouling Deterrence; A dual-functional antimicrobial and antifouling coating enabled by metal-coordinating polymer thin films; Transtympanic delivery of V₂O₅ nanowires with a tympanic-membrane penetrating peptide†; Design of Chemoresponsive Liquid Crystals Using Metal-Coordinating Polymer Surfaces; Advances in Antibacteri,random,,,
+149,drug delivery systems and nanomedicine,verified,William Olbricht,Chemical and Biomolecular Engineering,EmeritusProfessor,"Research Interests
+Drug Delivery and Nanomedicine
+Colloids and Interfacial Science
+Heat and Mass transfer
+Nanotechnology
+Bioengineering
+Biomedical Engineering
+Microfluidics
+Thermal Systems
+Complex Fluids and Polymers",system_result,1,,
+150,drug delivery systems and nanomedicine,verified,Mohammed Suliman M. Alshammasi,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Escobedo Lab. Advised by Fernando Escobedo.,system_result,2,,
+151,drug delivery systems and nanomedicine,verified,Yadong Wang,Chemical and Biomolecular Engineering,McAdam Family Foundation Professor of Heart Assist Technology,"Research Interests
+Biomedical Engineering
+Bioengineering
+Advanced Materials
+Drug Delivery and Nanomedicine
+Tissue Engineering and Biomaterials",system_result,3,,
+152,drug delivery systems and nanomedicine,verified,Joel Donald Brock,Materials Science and Engineering,Director of Master of Science and Master of Engineering ProgramsGiven Foundation Professor of Engineering Director of CHESS,"Research Interests
+For over 100 years, our fundamental understanding of the structure of materials on atomic length scales has been advanced by direct structural measurements using x-rays. Modern synchrotrons provide over 8 orders of magnitude higher fluxes than laboratory based sources. This flux enables us to utilize higher resolution: higher angular resolution for diffraction, higher energy resolution for spectroscopies, higher time resolution for dynamics, and higher spatial resolution for i",random,,,
+153,thermal transport and heat transfer in nanomaterials,verified,Zhiting Tian,Materials Science and Engineering,ProfessorEugene A. Leinroth Sesquicentennial Faculty Fellow,"Research Interests
+Micro/nanoscale heat transfer; thermal energy conversion and storage; thermal management; multiscale thermal transport in organic, inorganic, and hybrid materials; quantum computing; and biomedical engineering.
+Materials Design
+Energy and the Environment
+Micro Nano Systems
+Advanced Manufacturing and Materials",system_result,1,,
+154,thermal transport and heat transfer in nanomaterials,verified,Katie Jacoby,Materials Science and Engineering,Director of Administration,"View all 			Staff 		
+Katie Jacoby
+Director of Administration
+Department of Materials Science and Engineering
+R.F. Smith School of Chemical and Biomolecular Engineering
+LocationBard Hall, 210F
+Phone607-255-9158
+Emailkatie.jacoby@cornell.edu
+Biography
+Katie Jacoby joined the Department of Materials Science and Engineering after having served eight years as the executive director of administration and finance for the Cornell Laboratory of Accelerator-based Sciences and Education and the Cornell Hig",system_result,2,,
+155,thermal transport and heat transfer in nanomaterials,verified,C. Thomas Avedisian,Materials Science and Engineering,Professor,"Research Interests
+We are pursuing research that cuts across a variety of disciplines, including heat transfer and combustion. Problems are pursued from an experimental (as contrasted with a purely computational or theoretical) approach. Current projects include studies of droplet combustion, film boiling to promote thermal decomposition or organic liquids, and phase change processes of highly superheated liquids.
+Heat and Mass transfer
+Multiphase and Granular Flows
+Energy Systems
+Energy and the",system_result,3,,
+156,thermal transport and heat transfer in nanomaterials,verified,Nupur Mehra,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Escobedo Lab. Advised by Fernando Escobedo.,random,,,
+157,protein engineering and synthetic biology,verified,Matthew DeLisa,Chemical and Biomolecular Engineering,Director of Postdoctoral StudiesWilliam L. Lewis Professor,"Research Interests
+It has been suggested that life depends on 200-300 core biological processes, the vast majority of which are accomplished by large heterogeneous protein assemblies commonly referred to as machines. Unfortunately, the functional details of many cellular machines have yet to be described for lack of effective tools. In turn, this has hindered our ability to harness nature’s machines for tackling problems that cannot be solved with natural systems. The DeLisa laboratory is workin",system_result,1,,
+158,protein engineering and synthetic biology,verified,Samuel Baffour,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Archer Group. Advised by Lynden A. Archer.,system_result,2,,
+159,protein engineering and synthetic biology,verified,Samuel Banuna,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering.,system_result,3,,
+160,protein engineering and synthetic biology,verified,Perrine Pepiot,Chemical and Biomolecular Engineering,Associate Professor,"Research Interests
+Dr. Pepiot is interested in the production and utilization of renewable liquid transportation fuels from a modeling perspective. Her current work aims at gaining a better understanding of the biomass thermochemical conversion processes such as pyrolysis and gasification through the use of detailed multi-scale numerical techniques. Dr. Pepiot is also interested in the development of automatic tools to reduce the complexity of large chemical mechanisms and generate low-order kin",random,,,
+161,phase field modeling of solidification,challenge,Sol Gruner,Materials Science and Engineering,John L. Wetherill Emeritus Professor of Physics,"Sol Gruner
+John L. Wetherill Emeritus Professor of Physics 
+smg26@cornell.edu
+607/255-3441
+
+ 				Education 			
+S.B., 1972, Massachusetts Institute of Technology. Ph.D. 1977, Princeton University. Research Associate, Princeton University, 1977. Assistant Professor, Physics, Princeton University, 1978-85. Associate Professor, Physics, Princeton University, 1985-91. Professor, Physics, Princeton University, 1991-97. Professor, Physics, Cornell University, 1997-present. Director, Cornell High Energy",system_result,1,,
+162,phase field modeling of solidification,challenge,Rüdiger Dieckmann,Materials Science and Engineering,Emeritus,"Research Interests
+point defects in inorganic, nonmetallic compounds
+transport of matter and charge in ceramic solids, including glass
+kinetics and morphology of solid state reactions
+phase equilibria
+ceramic single crystal growth",system_result,2,,
+163,phase field modeling of solidification,challenge,Petru Petrina,Materials Science and Engineering,Adjunct Professor,"View all 			Faculty 		
+Petru Petrina
+Adjunct Professor
+Department of Materials Science and Engineering
+LocationKimball Hall, Room 301
+Phone607-255-3143
+Emailpp25@cornell.edu",system_result,3,,
+164,phase field modeling of solidification,challenge,Donald L. Koch,Chemical and Biomolecular Engineering,Professor,"Research Interests
+Rheology and average transport processes in particle suspensions, porous media, micro- and nano-structured materials. Particle-filled polymeric materials. Solvent-free nanoparticle fluids. Aggregation processes in colloids and aerosols. Non-continuum gas flows and reactions. Collective behavior of swimming micro-organisms. Convective heat and mass transfer in particulate systems. Two-way coupling in particle-laden turbulent gas flows. Geologic sequestration of carbon dioxide. ",random,,,
+165,metamaterials with negative refractive index,challenge,Hari Nair,Materials Science and Engineering,Assistant Professor,"Research Interests
+Novel materials have the potential of precipitating revolutionary rather than evolutionary changes in wide ranging fields. My vision is to explore the properties of novel oxide materials in epitaxial thin film form for wide ranging applications from power electronics to optical metamaterials. Understanding and tuning the fundamental properties of these versatile oxides using a combination of epitaxial strain, dimensionality and heterostructures will be key to developing the ne",system_result,1,,
+166,metamaterials with negative refractive index,challenge,Marco Farina,Materials Science and Engineering,Mary J. Upson Visiting Professor,"Research Interests
+Electromagnetic modeling
+Design of passive and active microwave components/structures
+Scanning probe microscopy, in particular Near-Field Scanning Microwave Microscopy (SMM)
+Nanotechnology
+Measurement and calibration techniques
+Biomedical imaging and sensors
+Advanced materials",system_result,2,,
+167,metamaterials with negative refractive index,challenge,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,3,,
+168,metamaterials with negative refractive index,challenge,Dzenana Javor,Materials Science and Engineering,Lead Finance,"View all 			Staff 		
+Dzenana Javor
+Lead Finance
+LocationBard Hall, Room 210D
+Phone607-255-9160
+Emaildj237@cornell.edu",random,,,
+169,topological insulators for spintronics,challenge,Judy Cha,Materials Science and Engineering,Rick and Betty Tsai Ph.D. 1981 Professor in Materials Science and EngineeringLester B. Knight Director of the Cornell NanoScale Science and Technology Facility,"Research Interests
+My group focuses on studying novel electronic properties and phase transformations of nanoscale materials for device and energy applications. We have three research thrusts: A) nanowires of topological materials for potential quantum computing and low-resistance interconnects, B) two-dimensional (2D) materials for energy and electronic applications, and C) nanoscale effects on the phase transitions of our topological and 2D nanomaterials. My group’s tool box includes 1) variou",system_result,1,,
+170,topological insulators for spintronics,challenge,Gregory David Fuchs,Materials Science and Engineering,James R. Meehl Professor,"Research Interests
+The Fuchs Group focuses on quantum informa­tion science and spintronics. We study and manipulate spin and optical degrees of freedom in solid-state materials. Although we are primarily a condensed matter physics research group, we draw inspiration from many fields including atomic physics, materials science, and electrical engineering.
+We are interested in hybrid quantum systems, in which disparate degrees of freedom interact coherently. Such systems can form the basis of futu",system_result,2,,
+171,topological insulators for spintronics,challenge,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,3,,
+172,topological insulators for spintronics,challenge,Amal El-Ghazaly,Materials Science and Engineering,Assistant Professor,"Research Interests
+Tunable devices; integrated thin-film magnetics; sensors and actuators; high-frequency electronics; haptics and tactile displays; precision agriculture
+Sensors and Actuators
+Nanotechnology
+Advanced Materials
+Advanced Materials Processing
+Solid State, Electronics, Optoelectronics and MEMs
+Physical Electronics, Devices, and Plasma Science",random,,,
+173,perovskite photovoltaics stability,challenge,Darrell Schlom,Materials Science and Engineering,Tisch University Professor,"Research Interests
+The focus of my group’s research is investigating and perfecting the properties of oxide materials for electronic uses. To do this, we grow oxide thin films on single crystal substrates of closely related substances. The single crystal substrate provides a structural template for the thin films that we grow. The films follow this atomic template and are thus said to be epitaxial (inheriting their crystalline arrangement from the underlying substrate). Our focus on oxides is du",system_result,1,,
+174,perovskite photovoltaics stability,challenge,Tobias Hanrath,Materials Science and Engineering,Croll Professor in Engineering,"Research Interests
+There is a tremendous opportunity space for nanostructured materials to play a key role in next generation energy technologies. Our research efforts focus on the fundamental study of optoelectronic properties of semiconductor nanocrystals; this work is inspired by the potential application of these materials in solar energy conversion and energy storage devices. The semiconductor nanocrystals used in our work provide a diverse set of building blocks whose electronic and optica",system_result,2,,
+175,perovskite photovoltaics stability,challenge,Debdeep Jena,Materials Science and Engineering,David E. Burr Professor of Engineering,"Research Interests
+The Jena group explores the fundamental limits of computation, memory, and communications with semiconductor devices by exploiting and understanding new physics. In recent years, they are immersed in research on the following topics:
+the performance limits of ultrahigh speed GaN and AlN transistors for all-electronic THz sources,
+ultra wide bandgap semiconductor transistors for power electronics (see Energy.gov presentation),
+photonic devices in the IR & visible, and deep-UV L",system_result,3,,
+176,perovskite photovoltaics stability,challenge,Jingjie Yeo,Materials Science and Engineering,Assistant Professor,"Research Interests
+Jingjie Yeo’s research focuses on interdisciplinary studies of material and biological phenomena by advancing multiscale, multi-physics computational methods and simulations. He aims to characterize and predict the mechanical, chemical, optical, and electrical structure-function relationships of polymers, bio-polymers, and bio-inspired materials of various morphologies. With additional techniques from machine learning and computational biology, he investigates phenomena relate",random,,,
+177,liquid crystal elastomers for actuators,challenge,Robert F. Shepherd,Materials Science and Engineering,Director of Graduate Studies for Mechanical EngineeringJohn F. Carr Professor of Mechanical Engineering,"Research Interests
+Dr. Shepherd is interested in developing disruptive manufacturing technologies (e.g., 3D printing, replica molding, microfluidics, etc.) and functional materials to enable new devices and user experiences. He is particularly interested in simultaneously increasing the speed, dimensionality, resolution, and materials capability of free-form fabrication techniques, and developing soft actuators that mimic biological functions, but not necessarily their mechanisms: These interest",system_result,1,,
+178,liquid crystal elastomers for actuators,challenge,Dieter Ast,Materials Science and Engineering,Emeritus,"Research Interests
+Thin Film Electronics, Flat Panel Displays, Glass Substrates for Flat Panel Displays.",system_result,2,,
+179,liquid crystal elastomers for actuators,challenge,James C. Hwang,Materials Science and Engineering,Research Professor,"Research Interests
+Electronic, optical, and micro-electromechanical devices and circuits.
+Advanced Materials
+Advanced Materials Processing
+Materials Synthesis and Processing
+Semiconductor Physics and Devices
+Nanotechnology
+Biomedical Imaging and Instrumentation
+Sensors and Actuators",system_result,3,,
+180,liquid crystal elastomers for actuators,challenge,Shikhar Singh,Chemical and Biomolecular Engineering,PhD Student,PhD student in Chemical and Biomolecular Engineering. Member of Joo Group. Advised by Yong L. Joo.,random,,,
