@@ -11,8 +11,11 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 
 # Bridge Streamlit Cloud secrets to os.environ (for src.config compatibility)
-if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
-    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+try:
+    if "GEMINI_API_KEY" in st.secrets:
+        os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+except FileNotFoundError:
+    pass  # No secrets.toml — use .env or environment variable instead
 
 from google import genai
 from src.config import GEMINI_API_KEY, GEMINI_MODEL
