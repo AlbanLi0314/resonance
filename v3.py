@@ -1,5 +1,6 @@
 import streamlit as st
 import sys
+import os
 import pickle
 import json
 import time
@@ -8,6 +9,10 @@ from pathlib import Path
 
 # Add project root to path so we can import src modules
 sys.path.insert(0, str(Path(__file__).parent))
+
+# Bridge Streamlit Cloud secrets to os.environ (for src.config compatibility)
+if hasattr(st, "secrets") and "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
 
 from google import genai
 from src.config import GEMINI_API_KEY, GEMINI_MODEL
